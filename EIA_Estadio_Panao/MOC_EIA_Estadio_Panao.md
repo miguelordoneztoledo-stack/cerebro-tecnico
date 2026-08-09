@@ -22,11 +22,11 @@ El proyecto de inversión pública comprende el mejoramiento integral de las ins
 
 ## 🌪️ 2. Antecedentes Críticos de Desastres y Climatología
 
-La zona de Panao es altamente vulnerable a peligros de origen natural, con un historial recurrente documentado por el COEN (Centro de Operaciones de Emergencia Nacional) e INDECI:
+La zona de Panao es altamente vulnerable a peligros de origen natural, con un historial recurrente documentado por el [[Antecedentes_Inundaciones_Iparia|COEN]] (Centro de Operaciones de Emergencia Nacional) e [[Antecedentes_Inundaciones_Iparia|INDECI]]:
 
 * **Huaico Reciente (01/04/2026):** Reporte Complementario N° 4920 del COEN-INDECI registra lluvias intensas extraordinarias que desencadenaron un huaico de magnitud en Panao, afectando la infraestructura de transporte, viviendas y cultivos agrícolas.
 * **Deslizamiento Hatunragra (21/10/2019):** Reporte N° 2655 detalla un deslizamiento en la carretera Panao - Yuragmarca (Sector Hatunragra), obstaculizando la conectividad vial principal.
-* **Clima y Precipitación:** El período lluvioso severo comprende de octubre a marzo. Según datos históricos de SENAMHI (Estación Chaglla), los meses más críticos corresponden a enero ($135\ mm/mes$) y marzo ($141\ mm/mes$).
+* **Clima y Precipitación:** El período lluvioso severo comprende de octubre a marzo. Según datos históricos de [[Línea_Base_Hidrológica_Estadio_Panao|SENAMHI]] (Estación Chaglla), los meses más críticos corresponden a enero ($135\ mm/mes$) y marzo ($141\ mm/mes$).
 
 ---
 

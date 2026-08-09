@@ -116,7 +116,7 @@ El Ministerio de Transportes y Comunicaciones pone a consideración del público
 |**4.1.4.2.**<br>**Ensayos Especiales**....................................................................43|
 |**4.1.4.3.**<br>**Frecuencia de ensayos**..............................................................43|
 |**4.1.5.**<br>**Rendimiento y Cubicación**...............................................................44|
-|**4.1.6.**<br>**Memoria Descriptiva**........................................................................44|
+|**4.1.6.**<br>**[[Memoria_Descriptiva|Memoria Descriptiva]]**........................................................................44|
 |**4.2.**<br>**Estudio de canteras de roca**..................................................................45|
 |**4.2.1.**<br>**Ubicación**..........................................................................................45|
 |**4.2.2.**<br>**Descripción**.......................................................................................45|
@@ -316,7 +316,7 @@ El Ministerio de Transportes y Comunicaciones pone a consideración del público
 |**16.1.**<br>**Análisis Ambiental**...........................................................................121|
 |**16.2.**<br>**Contenido mínimo del análisis**........................................................121|
 |**16.3.**<br>**Medidas preventivas y correctoras**.................................................125|
-|**16.4.**<br>**Plan de manejo ambiental**..............................................................125|
+|**16.4.**<br>**[[Gestion_Ambiental_y_PMA|Plan de manejo ambiental]]**..............................................................125|
 |<br>**16.4.1.**<br>**Programa de Medidas Preventivas, Mitigadoras y Correctivas**..126|
 |<br>**16.4.1.1.**<br>**Subprograma de Manejo de Residuos Sólidos, Líquidos y**|
 |<br>**Efluentes**126|
@@ -381,7 +381,7 @@ El Ministerio de Transportes y Comunicaciones pone a consideración del público
 |**del proyecto**.....................................................................................................150|
 |<br>**21.4.**<br>**Planos**..............................................................................................150|
 |**21.5.**<br>**Especificaciones Técnicas**...............................................................150|
-|**21.6.**<br>**Análisis de Precios**...........................................................................150|
+|**21.6.**<br>**[[Base_Datos_Costos_Historicos|Análisis de Precios]]**...........................................................................150|
 |**21.7.**<br>**Metrado y Presupuestos**..................................................................151|
 |**22.**<br>**ANEXO Nº 22: PLAN DE OBRAS**..............................................................153|
 |**23.**<br>**ANEXO Nº 23: ANALISIS DE PRECIOS**....................................................155|
@@ -432,7 +432,7 @@ El Ministerio de Transportes y Comunicaciones pone a consideración del público
 |**I.7.6**|**Tasa de descuento**.......................................................................................193|
 |**I.7.7**|**Indicadores de Rentabilidad**.......................................................................193|
 |**I.7.8**|**Análisis de Sensibilidad**...............................................................................193|
-|**I.7.9**|**Análisis de Riesgo**.......................................................................................193|
+|**I.7.9**|**[[Gestion_de_Riesgos_EVAR|Análisis de Riesgo]]**.......................................................................................193|
 |**I.7.10**|**Criterios de selección**..............................................................................193|
 
 
@@ -489,7 +489,7 @@ El Ministerio de Transportes y Comunicaciones pone a consideración del público
 |**II.3.9.**|**Anexo Nº 16. Medioambiente y Sociedad**..............................................204|
 |**II.3.10.**|**Anexo Nº 18. Replanteo**......................................................................204|
 |**II.3.11.**|**Anexo Nº 20. Afectaciones prediales**..................................................204|
-|**II.3.12.**|**Anexo Nº 23. Análisis de precios**........................................................204|
+|**II.3.12.**|**Anexo Nº 23. [[Base_Datos_Costos_Historicos|Análisis de precios]]**........................................................204|
 |**II.3.13.**|**Anexo Nº 24. Metrado y Presupuesto**.................................................205|
 |**II.3.14.**|**Documento II Planos**..........................................................................205|
 |**II.3.15.**|**Documento III Especificaciones Técnicas**..........................................205|
@@ -505,7 +505,7 @@ El Ministerio de Transportes y Comunicaciones pone a consideración del público
 |**II.4.9.**|**Documento II Planos**.............................................................................206|
 |**II.4.10.**|**Documento III Especificaciones Técnicas**..........................................206|
 |**II.4.11.**|**Documento IV Metrado y Presupuesto**...............................................207|
-|**II.4.12.**|**Documento V: Higiene y Seguridad en la Construcción**.....................207|
+|**II.4.12.**|**Documento V: [[Seguridad_y_Salud_SST|Higiene y Seguridad en la Construcción]]**.....................207|
 |**II.4.13.**|**Documento VI: Aspectos Ambientales**...............................................207|
 |**II.4.14.**|**Documento VII: Evaluación Técnica Económica**................................207|
 |**II.5.**<br>**ESQ**|**UEMA DE LAS FASES ..............................................................................208**|
@@ -537,7 +537,7 @@ El Ministerio de Transportes y Comunicaciones pone a consideración del público
 |**IV.2.3.**|**Documento II Planos**..............................................................................219|
 |**IV.2.4.**|**Documento III Especificaciones Técnicas**..............................................219|
 |**IV.2.5.**|**Documento IV Metrado y Presupuesto**...................................................220|
-|**IV.2.6.**|**Documento V Higiene y Seguridad en la construcción**..........................220|
+|**IV.2.6.**|**Documento V [[Seguridad_y_Salud_SST|Higiene y Seguridad en la construcción]]**..........................220|
 |**IV.2.7.**|**Documento VI Aspectos Ambientales**.....................................................220|
 |**IV.2.8.**|**Documento VII Evaluación Técnica Económica**.....................................220|
 |**IV.3.**<br>**F**|**ORMATO CHECK LIST..............................................................................220**|
@@ -617,7 +617,7 @@ Así también se incluye una serie de **“Recomendaciones para el Control del P
 
 La Guía para la Ejecución de Diseños viales está orientada en general al desarrollo de proyectos completos de obras de primer establecimiento, no obstante en el caso de que el proyecto se refiera a un cambio de estándar en una vía existente, se deben seguir los lineamientos que se establecen en el Capítulo **“Cambio de Estándar en vías Existentes”** , y en todo lo que no se oponga al contenido de ese capítulo se cumplirá con el esquema presentado en esta Guía. 
 
-Hay un capítulo que contiene el **“Glosario”** de términos utilizado en la redacción de la Guía que ayudará a la comprensión de su contenido. 
+Hay un capítulo que contiene el **“[[Glosario|Glosario]]”** de términos utilizado en la redacción de la Guía que ayudará a la comprensión de su contenido. 
 
 El capítulo dedicado a la **“Normativa Local”** vigente, presenta un resumen de la normativa vigente en el país. 
 
@@ -705,7 +705,7 @@ Este capítulo detalla el listado de los Documentos que se requieren para presen
 
 En general se deberá comprobar que el proyecto está fechado (mes y año) y firmado, que existe un índice general y otro para cada uno de los documentos. 
 
-Se comprobará que el proyectista ha efectuado los cálculos para el dimensionamiento de los distintos elementos resistentes hidráulicos, electromecánicos y de cualquier otra disciplina técnica, sin que sea necesario que los resultados de estos cálculos se contrasten por la oficina de supervisión. 
+Se comprobará que el proyectista ha efectuado los cálculos para el dimensionamiento de los distintos elementos resistentes [[applied hydraulic transients (chaudhry)|hidráulico]]s, electromecánicos y de cualquier otra disciplina técnica, sin que sea necesario que los resultados de estos cálculos se contrasten por la oficina de supervisión. 
 
 Este capítulo incluye un listado de tópicos a controlar de carácter general y de carácter particular para los documentos del proyecto. 
 
@@ -927,7 +927,7 @@ Se indicarán los documentos que se incluyen en el Proyecto Ejecutivo, de acuerd
 
 En ellos se incluirán todos los datos de tráfico, topográficos, hidrológicos, hidráulicos, ecológicos, geotécnicos, territoriales, ambientales, y otros cálculos y estudios que se hubieran utilizado en su elaboración, de acuerdo a lo que establece esta Guía para cada uno de los 24 Anexos a la Memoria. 
 
-El fin de los Anexos es el de descargar a la Memoria de cálculos o estudios excesivamente largos que puedan hacer perder su continuidad expositiva. La Memoria será entonces, una memoria descriptiva del proyecto, a modo de resumen ejecutivo y los Anexos a la Memoria contendrán el detalle específico de cada tema en particular desarrollado en el proyecto. 
+El fin de los Anexos es el de descargar a la Memoria de cálculos o estudios excesivamente largos que puedan hacer perder su continuidad expositiva. La Memoria será entonces, una [[Memoria_Descriptiva|memoria descriptiva]] del proyecto, a modo de resumen ejecutivo y los Anexos a la Memoria contendrán el detalle específico de cada tema en particular desarrollado en el proyecto. 
 
 Página 11 
 
@@ -1101,13 +1101,13 @@ Página 18
 
 #### **2.2.5.2. Particulares** 
 
-En la zona de implantación de obras hidráulicas de importancia (puentes, alcantarillas de grandes luces, baterías de alcantarillas, etc.), en encuentro con cursos de agua, se deberá hacer un levantamiento topográfico de la zona, lo suficientemente exhaustivo, que incluya: 
+En la zona de implantación de obras [[applied hydraulic transients (chaudhry)|hidráulica]]s de importancia (puentes, alcantarillas de grandes luces, baterías de alcantarillas, etc.), en encuentro con cursos de agua, se deberá hacer un levantamiento topográfico de la zona, lo suficientemente exhaustivo, que incluya: 
 
 - Conocer las secciones transversales del cauce, al menos una cada 20 metros, siguiendo el sentido del curso de agua, desde 300 metros aguas arriba hasta 300 metros aguas abajo del eje del puente 
 
 - Con lo anterior determinar la pendiente de fondo del cauce, en las inmediaciones de la estructura 
 
-- El levantamiento topográfico de las secciones transversales, deberá cubrir como mínimo una distancia transversal que incluya el lecho, las márgenes y parte de la planicie de inundación del curso 
+- El levantamiento topográfico de las secciones transversales, deberá cubrir como mínimo una distancia transversal que incluya el lecho, las márgenes y parte de la planicie de [[Inundacion_Extraordinaria_Iparia|inundación]] del curso 
 
 - El levantamiento topográfico de los elementos singulares como columnas de puentes, túneles, badenes, muros, estribos, elementos de desagüe, etc. 
 
@@ -1348,7 +1348,7 @@ Los signos convencionales y colores serán los oficialmente utilizados por el In
 
 #### **3.1.1. Informe Geológico** 
 
-Se presentará un informe geológico que además de una breve descripción de la Geología Histórica y Regional de la zona de estudio, se hará referencia a Estratigrafía, Litología, Tectónica, Geomorfología, Hidrogeología, Sismicidad, Geodinámica externa, Problemas especiales y Resumen de los rasgos geológicos con influencia en el proyecto. 
+Se presentará un informe geológico que además de una breve descripción de la Geología Histórica y Regional de la zona de estudio, se hará referencia a Estratigrafía, Litología, Tectónica, Geomorfología, Hidrogeología, Sismicidad, [[Geodinamica externa INGEMMET|Geodinámica externa]], Problemas especiales y Resumen de los rasgos geológicos con influencia en el proyecto. 
 
 #### **3.1.2. Planos  Geológicos** 
 
@@ -1370,7 +1370,7 @@ Se representarán con simbología adecuada los diferentes reconocimientos realiz
 
 #### **3.2.Geotecnia** 
 
-Los estudios geotécnicos estarán orientados, en base a las características de las diferentes formaciones, a determinar las zonas o sectores en que pudieran presentarse problemas de geodinámica externa como deslizamientos, inestabilidad de taludes en suelo y/o roca a lo largo de todo el trazo de la vía proyectada y como mínimo en un ancho que cubra la totalidad del área comprometida con incidencias sobre la vía proyectada. 
+Los estudios geotécnicos estarán orientados, en base a las características de las diferentes formaciones, a determinar las zonas o sectores en que pudieran presentarse problemas de geodinámica externa como [[Censor_Epistemico_Evaluacion_de_Riesgos_EVAR_en_Infraestructura_Vial_ante_Deslizamientos|deslizamientos]], inestabilidad de taludes en suelo y/o roca a lo largo de todo el trazo de la vía proyectada y como mínimo en un ancho que cubra la totalidad del área comprometida con incidencias sobre la vía proyectada. 
 
 En el Anexo 10 Suelos y Pavimentos se desarrolla todo lo referente al estudio del terreno natural y la estructura de la subrasante sobre la cual se apoyará el pavimento y por otra parte, en el anexo 12 Estudio Geotécnico para las Fundaciones de Estructuras, se establecen las pautas para analizar por separado cada una de las estructuras importantes proyectadas,  concluyendo sobre el tipo de fundación más adecuado. 
 
@@ -1640,7 +1640,7 @@ Se estudiará para cada uno de los cortes más importantes (por cuestiones de al
 
 Se debe realizar la identificación y análisis de los procesos de geodinámica externa y taludes inestables que pongan en riesgo la transitabilidad de la vía, definiendo la magnitud, geometría, evaluando sus causas, consecuencias e identificando los agentes desestabilizantes. En el caso de soluciones altamente costosas contemplará además, otras alternativas de menor inversión, más ello no exime el diseño de las primeras 
 
-En los sectores afectados por procesos de erosión de riberas, se deben evaluar estos problemas y establecer el tratamiento correspondiente en estrecha coordinación con el estudio realizado por el especialista en Hidráulica. 
+En los sectores afectados por procesos de erosión de riberas, se deben evaluar estos problemas y establecer el tratamiento correspondiente en estrecha coordinación con el estudio realizado por el especialista en [[applied hydraulic transients (chaudhry)|Hidráulica]]. 
 
 Se desarrollarán los Análisis de Estabilidad de Taludes mediante el método del Equilibrio Límite, para cuyo efecto se efectuarán ensayos estándar y especiales (Clasificación, Límites de Atterberg, Contenido de Humedad, Corte Directo, Triaxiales, etc.). Como medios de obtención de los parámetros geomecánicos de los materiales presentes podrán ser empleados los ensayos de penetración estática, sin embargo, éstos no reemplazarán a los ensayos de laboratorio. 
 
@@ -1730,7 +1730,7 @@ De encontrarse materiales arcillosos en los sectores donde se proyecten estructu
 
 Se determinarán los valores críticos de pendientes de equilibrio de los taludes en los cortes y terraplenes conformados con los materiales de préstamo. 
 
-Se elaborarán las recomendaciones de carácter preventivo, que permitan evitar o disminuir los riesgos de deslizamiento, tanto durante la construcción de las obras como posteriormente, cuando la vía se encuentre en servicio. Se dará énfasis a las recomendaciones sobre la forma de ejecutar los cortes, sin afectar la estabilidad de los taludes. 
+Se elaborarán las recomendaciones de carácter preventivo, que permitan evitar o disminuir los [[Censor_Epistemico_Evaluacion_de_Riesgos_EVAR_en_Infraestructura_Vial_ante_Deslizamientos|riesgos de deslizamiento]], tanto durante la construcción de las obras como posteriormente, cuando la vía se encuentre en servicio. Se dará énfasis a las recomendaciones sobre la forma de ejecutar los cortes, sin afectar la estabilidad de los taludes. 
 
 Finalmente, se preparará un resumen en el que se incluirán los principales problemas geotécnicos del corredor, su localización y sus soluciones. Tanto en las Especificaciones Técnicas como en el Presupuesto se recogerán estas soluciones. 
 
@@ -2224,7 +2224,7 @@ Para realizar el estudio hidrológico es necesario contar con la siguiente infor
 
 • Planos con la ubicación de los cursos de agua que intercepten o afecten directa o indirectamente el trazo y/o alineamiento de la vía proyectada. De los mismos deben conocerse caudales, pendientes, longitudes y rugosidad, como así también las batimetrías de las secciones de interferencia con el camino. 
 
-• Se deberán realizar visitas a la zona de emplazamiento de la vía proyectada, para recabar información sobre niveles de inundación históricos, la existencia de zonas de anegamiento, la existencia de embalses, cursos de gran envergadura, obras hidráulicas, etc., aguas abajo de los puntos de drenaje del camino que puedan afectar el libre escurrimiento de las aguas, condición que se deberá tener en cuenta en el diseño de las obras de drenaje. 
+• Se deberán realizar visitas a la zona de emplazamiento de la vía proyectada, para recabar información sobre niveles de [[Antecedentes_Inundaciones_Iparia|inundación históricos]], la existencia de zonas de anegamiento, la existencia de embalses, cursos de gran envergadura, obras hidráulicas, etc., aguas abajo de los puntos de drenaje del camino que puedan afectar el libre escurrimiento de las aguas, condición que se deberá tener en cuenta en el diseño de las obras de drenaje. 
 
 • Información disponible de otros proyectos en desarrollo, viales o no, que puedan condicionar el diseño posterior de las obras de drenaje necesarias. 
 
@@ -3810,7 +3810,7 @@ Página 106
 
 - Implicaciones de seguridad en la construcción 
 
-- Consideración de aspectos ambientales conforme a lo establecido en el Documento Aspectos Ambientales de esta Guía 
+- Consideración de [[Gestion_Ambiental_y_PMA|aspectos ambientales]] conforme a lo establecido en el Documento Aspectos Ambientales de esta Guía 
 
 - Además, para puentes no convencionales: 
 
@@ -4170,7 +4170,7 @@ En el diseño de las Barreras de Seguridad en su conjunto se prestará especial 
 
 #### **15.3. Auditoría de Seguridad Vial** 
 
-En la etapa de proyecto deben desarrollarse las respectivas auditorías de seguridad vial tanto en gabinete como en campo cuando se trate de una rehabilitación, a fin de conciliar el respectivo sistema de señalización y medidas de seguridad a las necesidades del proyecto. 
+En la etapa de proyecto deben desarrollarse las respectivas [[MOC_Auditorias_Epistemicas|auditorías de seguridad vial]] tanto en gabinete como en campo cuando se trate de una rehabilitación, a fin de conciliar el respectivo sistema de señalización y medidas de seguridad a las necesidades del proyecto. 
 
 #### **15.4. Especificaciones Técnicas** 
 
@@ -4314,7 +4314,7 @@ Asimismo, el muestreo considerará de manera primordial los lugares donde se ubi
 
 #### **16.2.5. Geología** 
 
-Se describirán las características geológicas en el AID y el AII, considerando la distribución de las formaciones y fallas geológicas reconocidas principalmente por el Instituto Geológico Minero Metalúrgico (INGEMMET) y adjuntar un mapa geológico a escala adecuada que permita mostrar las unidades identificadas. 
+Se describirán las características geológicas en el AID y el AII, considerando la distribución de las formaciones y fallas geológicas reconocidas principalmente por el Instituto Geológico Minero Metalúrgico (INGEMMET) y adjuntar un [[MAPA GEOLOGICO|mapa geológico]] a escala adecuada que permita mostrar las unidades identificadas. 
 
 #### **16.2.6. Fisiografía** 
 
@@ -4322,7 +4322,7 @@ Se evaluarán las condiciones fisiográficas del AII, que configuran las caracte
 
 #### **16.2.7. Geomorfología** 
 
-Se describirán las características geomorfológicas detallando sus principales unidades y procesos morfodinámicos en el AID y el AII (inundaciones, huaycos, erosiones, deslizamientos, entre otros procesos) considerando las zonas de mayor o menor estabilidad y riesgo físico frente a las obras del proyecto de infraestructura. Además se adjuntará un mapa geomorfológico. 
+Se describirán las características geomorfológicas detallando sus principales unidades y procesos morfodinámicos en el AID y el AII ([[Antecedentes_Inundaciones_Iparia|inundaciones]], huaycos, erosiones, deslizamientos, entre otros procesos) considerando las zonas de mayor o menor estabilidad y riesgo físico frente a las obras del proyecto de infraestructura. Además se adjuntará un mapa geomorfológico. 
 
 #### **16.2.8. Hidrología e hidrografía** 
 
@@ -4380,7 +4380,7 @@ Se deberá incluir la identificación y evaluación de pasivos ambientales; en l
 
 #### **16.4. Plan de manejo ambiental** 
 
-El Plan de Manejo Ambiental es el conjunto de estrategias, programas, y diseños necesarios para prevenir, controlar, mitigar, compensar y corregir los impactos generados por las diversas actividades del proyecto,  en especial por las actividades de construcción y operación. 
+El [[Gestion_Ambiental_y_PMA|Plan de Manejo Ambiental]] es el conjunto de estrategias, programas, y diseños necesarios para prevenir, controlar, mitigar, compensar y corregir los impactos generados por las diversas actividades del proyecto,  en especial por las actividades de construcción y operación. 
 
 El desarrollo del Plan de Manejo Ambiental deberá ser coordinado con el equipo de ingeniería estableciéndose un responsable para la ejecución de cada programa. 
 
@@ -5396,7 +5396,7 @@ Página 169
 
 |**Nº**|**Designación del Plano**|**Principal**<br>**Escalas  reco**|**Detalles**<br>**mendadas**|**Observaciones**|
 |---|---|---|---|---|
-|I.2.8.1.15|Puentes y viaductos. Detalles Complementarios|||Completarán<br>el<br>proyecto<br>todos<br>los<br>planos<br>que<br>sean<br>necesarios para definir elementos complementarios como:<br>losas de acceso, protección de taludes, defensas ribereñas,<br>etc.|
+|I.2.8.1.15|Puentes y viaductos. Detalles Complementarios|||Completarán<br>el<br>proyecto<br>todos<br>los<br>planos<br>que<br>sean<br>necesarios para definir elementos complementarios como:<br>losas de acceso, protección de taludes, [[Dictamen_EVAR_Creacion_Defensas_Ribereñas_Conchumayo|defensas ribereñas]],<br>etc.|
 |I.2.8.1.16|Puentes y viaductos. Detalles de Reparación o Reforzamiento|1:100|1:50<br>1:20|<br>Los Planos contendrán todos los detalles necesarios para<br>proceder a efectuar trabajos de reparación de losas, vigas,<br>estribos, etc. así como de su reforzamiento si correspondiere.|
 |I.2.8.2|ESTRUCTURAS. MUROS||||
 |I.2.8.2.1.|Muros. Plano de Ubicación|1:1.000|||
@@ -6957,7 +6957,7 @@ Página 217
 
 - Barreras de seguridad. Tipo y ubicación 
 
-- Auditoría de seguridad Vial 
+- [[MOC_Auditorias_Epistemicas|Auditoría de seguridad Vial]] 
 
 - Especificaciones Técnicas 
 
@@ -7926,7 +7926,7 @@ Página 243
 
 
 
-**<u>Nota</u>** <u>: Además del listado de términos que se presenta en este capítulo, existe un</u> “Glosario de términos de uso frecuente en proyectos de infraestructura vial” del Ministerio de Transportes y Comunicaciones,  el cual es de aplicación para los términos utilizados en la Guía. 
+**<u>Nota</u>** <u>: Además del listado de términos que se presenta en este capítulo, existe un</u> “[[glosario de terminos - RJ 151-2020-ANA|Glosario de términos de uso frecuente en proyectos de infraestructura vial]]” del Ministerio de Transportes y Comunicaciones,  el cual es de aplicación para los términos utilizados en la Guía. 
 
 Página 244 
 

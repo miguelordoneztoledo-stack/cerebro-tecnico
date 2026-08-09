@@ -6,7 +6,7 @@ estatus: MATRIZ_CUALITATIVA_COMPLETADA
 
 # 📊 Matriz de Análisis Cualitativo & Codificación Categorial
 
-**Tema / Estudio:** `Evaluacion cualitativa del uso de cuyinaza y eucalipto en comunidades aledanas a Atacocha`
+**Tema / Estudio:** `Evaluacion cualitativa del uso de [[Buscador_Papers_Biofiltros_de_eucalipto_y_cuyinaza_para_remocion_de_metales_pesados|cuyinaza y eucalipto]] en comunidades aledanas a [[Analisis_Cualitativo_Percepcion_de_la_comunidad_sobre_la_biofiltracion_de_relaves_en_Atacocha|Atacocha]]`
 **Fecha de Ejecución:** `2026-07-28 09:59:13`
 **Metodología:** Análisis Temático (Braun & Clarke) + Triangulación de Informantes
 
@@ -17,7 +17,7 @@ estatus: MATRIZ_CUALITATIVA_COMPLETADA
 | Categoría Macro | Subcategoría / Código | Cita Textual de Informante / Documento | Frecuencia |
 |---|---|---|:---:|
 | **Percepción Ambiental** | Impacto hídrico | *"El relave cuando llueve arrastra sedimentos amarillos al río"* | 14 |
-| **Aceptación Tecnológica** | Biofiltros locales | *"Preferimos soluciones que usen insumos de la zona como eucalipto"* | 18 |
+| **Aceptación Tecnológica** | [[Buscador_Papers_Remocion_de_metales_pesados_en_relaves_mineros_mediante_carbon_de_eucalipto_y_cuyinaza|Biofiltros locales]] | *"Preferimos soluciones que usen insumos de la zona como eucalipto"* | 18 |
 | **Gobernanza Comunal** | Participación ciudadana | *"Las comunidades deben ser informadas de los monitoreos"* | 9 |
 
 ---

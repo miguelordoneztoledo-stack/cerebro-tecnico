@@ -37,13 +37,13 @@ source: Índice_Líneas de negocio a desarrollar en proyectos de IA.pdf
 
 - 3.3.1. VOZ A TEXTO (STT) Y TEXTO A VOZ (TTS) 
 
-- 3.3.2. VISIÓN COMPUTACIONAL / ARTIFICIAL (CV) 
+- 3.3.2. [[Índice_Visión Artificial|VISIÓN COMPUTACIONAL / ARTIFICIAL (CV)]] 
 
 - 3.3.3. CONTROL DE RUIDO 
 
 - 3.3.4. COMPRESIÓN DEL HABLA 
 
-- 3.3.5. PROCESAMIENTO DEL LENGUAJE NATURAL (PNL) 
+- 3.3.5. [[Índice_Procesamiento del Lenguaje Natural|PROCESAMIENTO DEL LENGUAJE NATURAL (PNL)]] 
 
 - 3.3.6. COMPRENSIÓN DEL LENGUAJE NATURAL (NLU) 
 
@@ -73,7 +73,7 @@ source: Índice_Líneas de negocio a desarrollar en proyectos de IA.pdf
 
 **Web** www.ceupe.com 
 
-- 5.1. MACHINE LEARNING Y DEEP LEARNING 
+- 5.1. [[Índice_Machine learning y deep learning|MACHINE LEARNING Y DEEP LEARNING]] 
 
 - 5.2. ANÁLISIS EXPLORATORIO DE DATOS 
 

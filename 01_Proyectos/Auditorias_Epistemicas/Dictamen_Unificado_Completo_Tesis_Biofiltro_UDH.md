@@ -1,5 +1,5 @@
 ---
-tags: [DictamenUnificado, CapituloPorCapitulo, EvaluacionGlobal, APA7, ReglamentoUDH, UDH, Biofiltro, Atacocha]
+tags: [DictamenUnificado, CapituloPorCapitulo, EvaluacionGlobal, APA7, ReglamentoUDH, UDH, Biofiltro, [[Analisis_Cualitativo_Percepcion_de_la_comunidad_sobre_la_biofiltracion_de_relaves_en_Atacocha|Atacocha]]]
 fecha: 2026-07-28
 estatus: OBSERVADO_CON_PLIEGO_SUBSANATORIO
 autor_tesis: [[Dictamen_Waldir_Hector_Ildefonso_Alberto|Waldir Hector Ildefonso Alberto]]

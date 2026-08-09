@@ -27,10 +27,10 @@ source: MIA_A3_Mod9_Líneas de negocio a desarrollar.pdf
 |3.3.2. VISIÓN COMPUTACIONAL / ARTIFICIAL (CV) ...........................................64|
 |3.3.3. CONTROL DE RUIDO ...............................................................................65<br>|
 |3.3.4. COMPRESIÓN DEL HABLA .......................................................................65|
-|3.3.5. PROCESAMIENTO DEL LENGUAJE NATURAL (PNL) ...................................65|
+|3.3.5. PROCESAMIENTO DEL LENGUAJE NATURAL ([[MIA_A1_Mod3_Procesamiento Lenguaje Natural|PNL]]) ...................................65|
 |3.3.6. COMPRENSIÓN DEL LENGUAJE NATURAL (NLU) ......................................67<br>|
 |3.3.7. GENERACIÓN DE LENGUAJE NATURAL (NLG) ..........................................67|
-|3.3.8. APRENDIZAJE PROFUNDO (DL) ................................................................68|
+|3.3.8. APRENDIZAJE PROFUNDO ([[MIA_A2_Mod4_Machine Learning y Deep Learning|DL]]) ................................................................68|
 |3.3.9. REALIDAD AUMENTADA (RA) .................................................................68<br>|
 |3.3.10. REDES ANTAGÓNICAS GENERATIVAS (GANS) .......................................69|
 |3.3.11. INTELIGENCIA EMOCIONAL (IE) .............................................................69|
@@ -85,7 +85,7 @@ Bajo esta introducción es importante concretar dos preguntas:
 
 _¿Qué es la tecnología?_ 
 
-La tecnología es cualquier aplicación diseñada o creada utilizando ciencia/matemáticas aplicadas para resolver un problema dentro de una sociedad. Pueden ser tecnologías agrícolas, como las de las civilizaciones antiguas, o tecnologías computacionales en tiempos más recientes. La tecnología puede abarcar tecnologías antiguas como una calculadora, una brújula, un calendario, una batería, barcos o carros. O una tecnología moderna, como servidores de cómputo, robots, tabletas, impresoras y máquinas de fax. La tecnología del futuro incluye tecnologías avanzadas de Blockchain, ciudades inteligentes (IoT), dispositivos inteligentes más avanzados, computación cuántica, cifrado cuántico e inteligencia artificial avanzada. 
+La tecnología es cualquier aplicación diseñada o creada utilizando ciencia/matemáticas aplicadas para resolver un problema dentro de una sociedad. Pueden ser tecnologías agrícolas, como las de las civilizaciones antiguas, o tecnologías computacionales en tiempos más recientes. La tecnología puede abarcar tecnologías antiguas como una calculadora, una brújula, un calendario, una batería, barcos o carros. O una tecnología moderna, como servidores de cómputo, robots, tabletas, impresoras y máquinas de fax. La tecnología del futuro incluye tecnologías avanzadas de Blockchain, ciudades inteligentes (IoT), dispositivos inteligentes más avanzados, computación cuántica, cifrado cuántico e [[MIA_A1_Mod1_Introduccion a la IA|inteligencia artificial]] avanzada. 
 
 04 
 
@@ -361,7 +361,7 @@ _“A medida que la predicción de las máquinas se vuelva más económica, las 
 
 Antes de empezar a estudiar las principales claves por sectores más adelante, hay una derivada común en todos ellos, que es el beneficio industrial de la adopción de la IA. Desde un punto de vista económico, los avances recientes en inteligencia artificial (IA) disminuir el costo de la previsión o mejorar la calidad de las previsiones disponibles al mismo tiempo coste. Muchos aspectos de la toma de decisiones están separados de la previsión. Sin embargo, mejorado la predicción de IA económica y ampliamente accesible podría ser transformadora porque la predicción es un insumo en gran parte de la actividad humana. 
 
-A medida que el costo de la predicción de IA ha disminuido, han surgido más oportunidades para usar la predicción. surgido, como con las computadoras en el pasado. Las primeras aplicaciones de IA fueron reconocidas durante mucho tiempo como problemas de predicción. Por ejemplo, el aprendizaje automático (ML) predice potenciales incumplimientos de préstamos y seguros riesgo. A medida que disminuye su coste, algunas actividades humanas se están reformulando como problemas de predicción. 
+A medida que el costo de la predicción de IA ha disminuido, han surgido más oportunidades para usar la predicción. surgido, como con las computadoras en el pasado. Las primeras aplicaciones de IA fueron reconocidas durante mucho tiempo como problemas de predicción. Por ejemplo, el [[MIA_A2_Mod4_Machine Learning y Deep Learning|aprendizaje automático ([[MIA_A2_Mod4_Machine Learning y Deep Learning|ML]])]] predice potenciales incumplimientos de préstamos y seguros riesgo. A medida que disminuye su coste, algunas actividades humanas se están reformulando como problemas de predicción. 
 
 En el diagnóstico médico, por ejemplo, un médico utiliza datos sobre los síntomas de un paciente y completa falta de información sobre la causa de estos síntomas. El proceso de usar datos para la información completa que falta es una predicción. La clasificación de objetos también es una predicción. 
 
@@ -399,9 +399,9 @@ Las acciones son inherentemente más valiosas cuando las realiza un ser humano q
 
 Es por eso por lo que juicio, conocido como el proceso de determinar la recompensa o veracidad a una acción particular en un entorno particular. En el contexto de la IA, que se usa para predicciones, un ser humano debe decidir qué predecir y qué hacer con las predicciones. 
 
-Por ejemplo, en el mundo de la arquitectura y creación de proyectos de construcción, la IA se puede usar para predecir el riesgo de sobrecostes del proyecto, el riesgo de accidentes en el sitio y la necesidad de mantenimiento a lo largo del tiempo. La IA es un término ampliamente utilizado y vagamente definido que describe cuándo las máquinas pueden realizar acciones que normalmente requieren inteligencia humana. Estas predicciones suelen fundamentarse en el aprendizaje automático - un tipo particular de inteligencia artificial, que describe cuándo la máquina puede aprender de la experiencia (por ejemplo, datos históricos o mediante pruebas) sin ser programada explícitamente. 
+Por ejemplo, en el mundo de la arquitectura y creación de proyectos de construcción, la IA se puede usar para predecir el riesgo de sobrecostes del proyecto, el riesgo de accidentes en el sitio y la necesidad de mantenimiento a lo largo del tiempo. La IA es un término ampliamente utilizado y vagamente definido que describe cuándo las máquinas pueden realizar acciones que normalmente requieren inteligencia humana. Estas predicciones suelen fundamentarse en el [[MIA_A2_Mod4_Machine Learning y Deep Learning|aprendizaje automático]] - un tipo particular de inteligencia artificial, que describe cuándo la máquina puede aprender de la experiencia (por ejemplo, datos históricos o mediante pruebas) sin ser programada explícitamente. 
 
-Como ya se ha estudiado en módulos anteriores, el aprendizaje profundo (Deep Learning – DL en adelante) es un tipo particular de aprendizaje automático inspirado en la forma en que funciona nuestro cerebro y se basa en el concepto de redes neuronales artificiales. El DL depende en gran medida de una gran cantidad de datos y una gran potencia informática. La IA y los algoritmos de DL. Volviendo al ejemplo del mundo de la construcción, la IA en formato DL podría generar un análisis predictivo de la información como: 
+Como ya se ha estudiado en módulos anteriores, el [[MIA_A2_Mod4_Machine Learning y Deep Learning|aprendizaje profundo (Deep Learning – DL en adelante)]] es un tipo particular de aprendizaje automático inspirado en la forma en que funciona nuestro cerebro y se basa en el concepto de redes neuronales artificiales. El DL depende en gran medida de una gran cantidad de datos y una gran potencia informática. La IA y los algoritmos de DL. Volviendo al ejemplo del mundo de la construcción, la IA en formato DL podría generar un análisis predictivo de la información como: 
 
 - Predecir sobrecostes en función de la experiencia de proyectos anteriores y factores como el tamaño del proyecto, el tipo de contrato y el nivel de competencia de los gerentes de proyecto. 
 
@@ -643,7 +643,7 @@ Ilustración 21.https://www.youtube.com
 
 **_* “IBM SPSS es una herramienta que permite descubrir patrones en los datos transformándolos en información útil para tomar decisiones de negocio._** 
 
-_Esta herramienta es capaz de analizar datos haciendo uso de diferentes tecnologías como inteligencia artificial, análisis estadístico, machine learning y sistemas de bases de datos para_ **_aprender de la información que contienen_** _, detectar tendencias y patrones y realizar predicciones futuras a partir del análisis de los datos actuales._ 
+_Esta herramienta es capaz de analizar datos haciendo uso de diferentes tecnologías como inteligencia artificial, análisis estadístico, [[MIA_A2_Mod4_Machine Learning y Deep Learning|machine learning]] y sistemas de bases de datos para_ **_aprender de la información que contienen_** _, detectar tendencias y patrones y realizar predicciones futuras a partir del análisis de los datos actuales._ 
 
 _El Análisis Predictivo de IBM SPSS implica_ **_convertir los datos que ya tienen las empresas en información fiable y accionable_** _a partir de la cual_ **_crear valor para nuestros clientes_** _detectando sus preferencias presentes y futuras y guiando el camino para crear una oferta de productos y servicios orientada a satisfacer esas preferencias._ 
 
@@ -791,7 +791,7 @@ Ilustración 2.https://enzyme.biz/
 
 ### **3.2. Tipos de Asistentes Virtuales** 
 
-Un asistente virtual que fundamenta su funcionamiento en la IA se puede definir como un programa de software que se basa en tecnologías como el procesamiento del lenguaje natural (entre otras que se estudiarán más adelante) para seguir comandos de voz y texto. Estos, son capaces de realizar muchas de las mismas tareas que los asistentes humanos, como leer texto, tomar dictados, hacer llamadas y mucho más. Los asistentes de IA a menudo se basan en aplicaciones alojadas en la nube, lo que significa que se puede acceder a ellos desde cualquier lugar siempre que haya una conexión a Internet. Los mejores asistentes de IA se basan en algoritmos de autoaprendizaje para volverse altamente personalizados, incluso llegando a aprender preferencias o patrones de habla de quien los consume. 
+Un asistente virtual que fundamenta su funcionamiento en la IA se puede definir como un programa de software que se basa en tecnologías como el [[MIA_A1_Mod3_Procesamiento Lenguaje Natural|procesamiento del lenguaje natural]] (entre otras que se estudiarán más adelante) para seguir comandos de voz y texto. Estos, son capaces de realizar muchas de las mismas tareas que los asistentes humanos, como leer texto, tomar dictados, hacer llamadas y mucho más. Los asistentes de IA a menudo se basan en aplicaciones alojadas en la nube, lo que significa que se puede acceder a ellos desde cualquier lugar siempre que haya una conexión a Internet. Los mejores asistentes de IA se basan en algoritmos de autoaprendizaje para volverse altamente personalizados, incluso llegando a aprender preferencias o patrones de habla de quien los consume. 
 
 El mercado de asistentes de IA ha crecido rápidamente y se ha vuelto más competitivo, existe una clasificación a alto nivel de los tipos de asistentes virtuales más consumidos. 
 
@@ -813,7 +813,7 @@ Los chatbots creados con algunos de los marcos de bot disponibles actualmente, p
 
 En otras palabras, a medida que las conversaciones sobre la transformación digital continúan, los chatbots han demostrado ser un tema de conversación en el foco de mira. Es por este motivo por el que según las necesidades empresariales se emplearán chatbots basados en reglas predefinidas o en chatbots basados en IA. 
 
-Es necesario comprender que no todos los chatbots funcionan con Inteligencia Artificial. Un chatbot basado en reglas utiliza un flujo en forma de árbol de decisiones en lugar de IA para ayudar a los usuarios con sus consultas. Esto significa que el chatbot guiará al cliente o usuario con preguntas de seguimiento para finalmente llegar a la resolución correcta. Las estructuras y las respuestas están predefinidas para tener un control de la conversación. 
+Es necesario comprender que no todos los chatbots funcionan con [[MIA_A1_Mod1_Introduccion a la IA|Inteligencia Artificial]]. Un chatbot basado en reglas utiliza un flujo en forma de árbol de decisiones en lugar de IA para ayudar a los usuarios con sus consultas. Esto significa que el chatbot guiará al cliente o usuario con preguntas de seguimiento para finalmente llegar a la resolución correcta. Las estructuras y las respuestas están predefinidas para tener un control de la conversación. 
 
 Estos chatbots basados en reglas son excelentes para valorar consultas sencillas, como reservar una mesa en un restaurante o cuando se pregunta por el horario de apertura de un restaurante. Optar por este tipo de chatbot tiene beneficios complementarios a los chatbots basados en IA: 
 
@@ -835,7 +835,7 @@ Sin embargo, este tipo de chatbots tienen una serie de limitaciones y desventaja
 
 - No pueden aprender por sí mismos, lo que significa que cualquier mejora debe realizarse manualmente. 
 
-En contraposición y siendo el objeto que estudiar en este máster, un chatbot basado en IA es un chatbot con tecnología de procesamiento de lenguaje natural (NLP) u otra trabajando por detrás. Entonces, a diferencia de un chatbot basado en reglas, no usará palabras clave para responder, pero intentará comprender la intención del usuario. Cuanto más se interactúe con este tipo de asistentes virtuales, mejor comprenderá la intención y responderán mejor a las solicitudes. 
+En contraposición y siendo el objeto que estudiar en este máster, un chatbot basado en IA es un chatbot con tecnología de [[MIA_A1_Mod3_Procesamiento Lenguaje Natural|procesamiento de lenguaje natural ([[MIA_A1_Mod3_Procesamiento Lenguaje Natural|NLP]])]] u otra trabajando por detrás. Entonces, a diferencia de un chatbot basado en reglas, no usará palabras clave para responder, pero intentará comprender la intención del usuario. Cuanto más se interactúe con este tipo de asistentes virtuales, mejor comprenderá la intención y responderán mejor a las solicitudes. 
 
 Este tipo de bot es mucho más adecuado para casos de uso y de negocio complejos y con una mayor cantidad de consultas. Este tipo de asistente consta de varias ventajas: 
 
@@ -1011,7 +1011,7 @@ Los asistentes de voz específicos de dominio son asistentes derivados de los an
 
 ### **3.2.4. Avatares de IA** 
 
-Los avatares impulsados por IA son modelos virtuales en 3D que se simulan a los humanos. Desde hace unos años se han vuelto más realistas gracias al aumento del aprendizaje profundo (DL) y la disponibilidad de millones de ficheros e información en forma de imágenes que muestran cada detalle del cuerpo y la cara humanos. 
+Los avatares impulsados por IA son modelos virtuales en 3D que se simulan a los humanos. Desde hace unos años se han vuelto más realistas gracias al aumento del [[MIA_A2_Mod4_Machine Learning y Deep Learning|aprendizaje profundo]] (DL) y la disponibilidad de millones de ficheros e información en forma de imágenes que muestran cada detalle del cuerpo y la cara humanos. 
 
 
 
@@ -1461,7 +1461,7 @@ Ilustración 25.https://www.xataka.com.
 
 ### **3.3.11. Inteligencia Emocional (IE)** 
 
-Esta es la que realmente hace que los asistentes de IA sean más receptivos al analizar las emociones humanas mediante la detección de expresiones faciales, lenguaje corporal o voz. Existen asistentes virtuales que utilizan técnicas de visión artificial y aprendizaje automático para detección de esta inteligencia emocional. Los algoritmos de visión artificial reconocen las partes significativas del rostro de una persona y siguen su movimiento. Luego, el algoritmo evalúa las emociones de la persona comparando los datos adquiridos con una biblioteca de imágenes almacenada. La tecnología de reconocimiento facial utiliza una cámara web típica o una cámara de teléfono inteligente para evaluar las emociones faciales. También puede identificar el cambio en el tono, tempo y volumen e interpretarlos como emociones. 
+Esta es la que realmente hace que los asistentes de IA sean más receptivos al analizar las emociones humanas mediante la detección de expresiones faciales, lenguaje corporal o voz. Existen asistentes virtuales que utilizan técnicas de [[MIA_A1_Mod2_Visión Artificial|visión artificial]] y aprendizaje automático para detección de esta inteligencia emocional. Los algoritmos de visión artificial reconocen las partes significativas del rostro de una persona y siguen su movimiento. Luego, el algoritmo evalúa las emociones de la persona comparando los datos adquiridos con una biblioteca de imágenes almacenada. La tecnología de reconocimiento facial utiliza una cámara web típica o una cámara de teléfono inteligente para evaluar las emociones faciales. También puede identificar el cambio en el tono, tempo y volumen e interpretarlos como emociones. 
 
 Sin duda los avances tecnológicos están impulsando la creación de mejores asistentes virtuales, la mayoría de ellos mediante el uso de IA. Estos pueden contribuir significativamente a las necesidades operativas de todo tipo de organizaciones por ejemplo mediante la ejecución de más tareas productivas (o de iteración con clientes) a medida que evoluciona el proceso de PNL. 
 
@@ -1473,7 +1473,7 @@ Los agentes virtuales inteligentes, en particular, pueden proporcionar recomenda
 
 ## **4. Casos de uso por industria** 
 
-_“A medida que el impacto de la IA impregna nuestra sociedad, su poder transformador debe ponerse al servicio de las personas y del planeta ya que, uno de los mayores retos de su uso es el contacte reto_ _<u>y preocupación por sus pilares éticos. ”</u>_ 
+_“A medida que el impacto de la IA impregna nuestra sociedad, su poder transformador debe ponerse al servicio de las personas y del planeta ya que, uno de los mayores retos de su uso es el contacte reto_ _<u>y preocupación por sus [[MIA_A2_Mod6_Desafíos éticos y RSC|pilares éticos]]. ”</u>_ 
 
 Es un hecho que la inteligencia artificial está remodelando las economías y se ha convertido en un aliado empresarial para generar mayor productividad (que deriva en ganancias), mejorar la eficiencia y reducir los costes de ciertos procesos productivos. La inteligencia artificial contribuye a mejorar la vida y ayuda a las personas a hacer mejores predicciones y decisiones basándose en la información y el conocimiento. Esta tecnología, sin embargo, se encuentra en un momento temprano de su uso, y su futuro se considera muy prometedor a la hora de abordar desafíos globales mediante la promoción de la innovación y uso de la misma. 
 
@@ -2257,17 +2257,17 @@ En función del tipo de problema al que nos enfrentemos en cada proyecto real, t
 
 La clasificación general de los modelos de aprendizaje automático parte del tipo de aprendizaje: 
 
-1. <u>Aprendizaje supervisado (</u> _<u>supervised learning</u>_ <u>). El aprendizaje supervisado es aquel</u> en el que tenemos un conjunto de datos etiquetados. El problema puede ser de clasificación o de regresión, y siempre sabremos qué respuesta esperamos que devuelva nuestro modelo para cada caso concreto. Es decir, “conocemos las respuestas” a priori, y la intención es que el algoritmo pueda dar estas respuestas por sí mismo. 
+1. <u>Aprendizaje supervisado (</u> _<u>supervised learning</u>_ <u>). El [[MIA_A2_Mod4_Machine Learning y Deep Learning|aprendizaje supervisado]] es aquel</u> en el que tenemos un conjunto de datos etiquetados. El problema puede ser de clasificación o de regresión, y siempre sabremos qué respuesta esperamos que devuelva nuestro modelo para cada caso concreto. Es decir, “conocemos las respuestas” a priori, y la intención es que el algoritmo pueda dar estas respuestas por sí mismo. 
 
 105 
 
 **Centro Europeo de Postgrado                                              Módulo. Líneas de Negocio a Desarrollar en Proyectos de IA** 
 
-   - a. **Modelos de clasificación.** Los modelos de clasificación tratan de asignar de forma automática una categoría a cada elemento de un set de datos. Es necesario definir de antemano las clases o categorías en las que querremos clasificar nuestros elementos, así como tener un conjunto de entrenamiento con las etiquetas correspondientes para cada elemento de tal forma que los modelos de aprendizaje automático puedan detectar las características y patrones característicos de cada categoría. Como ya hemos visto y exploraremos a lo largo de los casos de uso, algunos de los algoritmos de clasificación más habituales son la regresión lineal, las máquinas de soporte de vectores (SVM), los árboles de decisión, los _random forest_ y los _k-nearest neighbors_ o las redes neuronales entre otros. 
+   - a. **Modelos de clasificación.** Los [[MIA_A2_Mod4_Machine Learning y Deep Learning|modelos de clasificación]] tratan de asignar de forma automática una categoría a cada elemento de un set de datos. Es necesario definir de antemano las clases o categorías en las que querremos clasificar nuestros elementos, así como tener un conjunto de entrenamiento con las etiquetas correspondientes para cada elemento de tal forma que los modelos de aprendizaje automático puedan detectar las características y patrones característicos de cada categoría. Como ya hemos visto y exploraremos a lo largo de los casos de uso, algunos de los algoritmos de clasificación más habituales son la regresión lineal, las máquinas de soporte de vectores (SVM), los árboles de decisión, los _random forest_ y los _k-nearest neighbors_ o las redes neuronales entre otros. 
 
    - b. **Modelos de regresión.** Un modelo de regresión trata de encontrar la relación entre variables dependientes e independientes, para predecir un resultado numérico en un intervalo continuo. A diferencia de la clasificación busca generar una proyección en forma de número, en lugar de clasificar los elementos. Se suelen emplear algoritmos similares a los de clasificación además de otros como la regresión logística, la regresión lineal o Gradient Boosting. 
 
-2. <u>Aprendizaje no supervisado (</u> _<u>unsupervised learning</u>_ <u>). En este caso nos enfrentamos</u> con un conjunto de datos sin etiquetar. Esto implica que conocemos la pregunta que queremos hacerle a nuestro modelo, pero no conocemos la respuesta para los datos ya recopilados. De esta forma, en el aprendizaje no supervisado perseguimos encontrar patrones y estructuras en nuestros datos que nos permitan conocerlos mejor y tomar decisiones sobre ellos. Los modelos de machine learning de aprendizaje no supervisado suelen pertenecer a alguna de las siguientes dos categorías: 
+2. <u>Aprendizaje no supervisado (</u> _<u>unsupervised learning</u>_ <u>). En este caso nos enfrentamos</u> con un conjunto de datos sin etiquetar. Esto implica que conocemos la pregunta que queremos hacerle a nuestro modelo, pero no conocemos la respuesta para los datos ya recopilados. De esta forma, en el [[MIA_A2_Mod4_Machine Learning y Deep Learning|aprendizaje no supervisado]] perseguimos encontrar patrones y estructuras en nuestros datos que nos permitan conocerlos mejor y tomar decisiones sobre ellos. Los modelos de machine learning de aprendizaje no supervisado suelen pertenecer a alguna de las siguientes dos categorías: 
 
    - a. **Clustering:** Los modelos de Clustering son algunos de los más habituales en el aprendizaje automático no supervisado. La tarea de estos modelos consiste en organizar datos no etiquetados en grupos llamados clusters. Los modelos seleccionarán uno o varios criterios para agrupar los datos de tal forma que los elementos más similares entre sí se encuentren en el mismo grupo. Es decir, un cluster es un conjunto de elementos similares. 
 
@@ -2681,9 +2681,9 @@ Podemos plantear el ejemplo de estar en la semana 12 del año y ser capaces de p
 
 
 
-Los modelos de regresión de aprendizaje automático son los que ya conocemos tras las múltiples asignaturas, de entre los que vamos a destacar los siguientes candidatos a la tarea de la predicción (o _forecasting_ en inglés). 
+Los [[MIA_A2_Mod4_Machine Learning y Deep Learning|modelos de regresión]] de aprendizaje automático son los que ya conocemos tras las múltiples asignaturas, de entre los que vamos a destacar los siguientes candidatos a la tarea de la predicción (o _forecasting_ en inglés). 
 
-- Regresión lineal múltiple: Siempre debemos incorporar un modelo básico, llamado _baseline_ que será el que debamos mejorar para dar un modelo más complejo como válido. Emplearemos la regresión lineal múltiple ya que contamos con muchas variables de entrada (inputs) para tratar de generar una única salida (output). La siguiente imagen es la regresión lineal de los kg de PET relacionados con el número de envases de PET vendidos en el último mes (izquierda) y con el número de días con lluvia de la semana anterior (derecha), por ejemplo. 
+- Regresión lineal múltiple: Siempre debemos incorporar un modelo básico, llamado _baseline_ que será el que debamos mejorar para dar un modelo más complejo como válido. Emplearemos la [[MIA_A2_Mod4_Machine Learning y Deep Learning|regresión lineal múltiple]] ya que contamos con muchas variables de entrada (inputs) para tratar de generar una única salida (output). La siguiente imagen es la regresión lineal de los kg de PET relacionados con el número de envases de PET vendidos en el último mes (izquierda) y con el número de días con lluvia de la semana anterior (derecha), por ejemplo. 
 
 125 
 
