@@ -1,5 +1,5 @@
 ---
-title: "Dictamen - Irrigacion Conchumayo"
+title: "[[Dictamen_SST_Irrigacion_Conchumayo|Dictamen]] - [[Inspeccion_2026-07-28_Irrigacion_Conchumayo|Irrigacion Conchumayo]]"
 date: 2026-07-30
 tags: [auditoria, udh, tesis]
 ---

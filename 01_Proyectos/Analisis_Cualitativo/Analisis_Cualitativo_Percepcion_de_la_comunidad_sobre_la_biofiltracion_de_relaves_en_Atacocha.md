@@ -17,7 +17,7 @@ estatus: MATRIZ_CUALITATIVA_COMPLETADA
 | Categoría Macro | Subcategoría / Código | Cita Textual de Informante / Documento | Frecuencia |
 |---|---|---|:---:|
 | **Percepción Ambiental** | Impacto hídrico | *"El relave cuando llueve arrastra sedimentos amarillos al río"* | 14 |
-| **Aceptación Tecnológica** | Biofiltros locales | *"Preferimos soluciones que usen insumos de la zona como eucalipto"* | 18 |
+| **Aceptación Tecnológica** | Biofiltros locales | *"Preferimos soluciones que usen insumos de la zona como [[Buscador_Papers_Biofiltros_de_eucalipto_y_cuyinaza_para_remocion_de_metales_pesados|eucalipto]]"* | 18 |
 | **Gobernanza Comunal** | Participación ciudadana | *"Las comunidades deben ser informadas de los monitoreos"* | 9 |
 
 ---

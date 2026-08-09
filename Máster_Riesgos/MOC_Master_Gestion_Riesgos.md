@@ -15,9 +15,9 @@ graph TD
     A[Gestión de Riesgos Máster] --> B(Riesgos Físicos y Ambientales)
     A --> C(Riesgos Ocupacionales y de Seguridad)
     A --> D(Riesgos Contractuales y Económicos)
-    B --> B1[Evaluaciones EVAR - CENEPRED]
-    B --> B2[Evaluaciones Ambientales EVAP]
-    C --> C1[Planes de SST - Ley 29783 / G.050]
+    B --> B1[[[Metodologia_EVAR_CENEPRED|Evaluaciones EVAR - CENEPRED]]]
+    B --> B2[[[Metodologia_EVAP_CONESA|Evaluaciones Ambientales EVAP]]]
+    C --> C1[[[Seguridad_y_Salud_SST|Planes de SST - Ley 29783 / G.050]]]
     D --> D1[Penalidades y Control de Plazos]
 ```
 
@@ -51,6 +51,6 @@ Este compendio máster consolida la bibliografía, metodologías de Saaty y est�
 ## 🌐 Red de Conexiones Semánticas (Cerebro Digital)
 - **Hub Central:** [[MOC_Master_Cerebro_Tecnico]] | [[Memoria_Maestra]]
 - **Disciplinas:** [[01_Proyectos]] | [[02_Metodologias]] | [[03.Agentes]]
-- **Auditores Especializados:** (ninguno registrado — ver MOC_Skills_Sistema)
+- **Auditores Especializados:** (ninguno registrado — ver [[MOC_Skills_Sistema|MOC_Skills_Sistema]])
 - [[Sincronizacion_NotebookLM_Master_2026-07-27]] (Registro de Sincronización Web)
 - [[Log_2026-07-28]] (Diario de Investigación y Bitácora del Día)

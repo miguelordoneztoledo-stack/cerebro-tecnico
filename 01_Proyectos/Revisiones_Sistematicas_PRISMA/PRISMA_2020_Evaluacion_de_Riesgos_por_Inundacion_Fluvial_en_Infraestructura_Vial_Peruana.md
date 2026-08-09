@@ -14,7 +14,7 @@ estatus: PROTOCOLO_APROBADO
 
 ## 📌 1. Formulación del Criterio PICOS
 - **P (Población):** Proyectos de infraestructura civil / estudios ambientales en cuencas.
-- **I (Intervención):** Evaluación de Riesgos (EVAR / AHP Saaty / CENEPRED).
+- **I (Intervención):** Evaluación de Riesgos ([[Metodologia_EVAR_[[Metodologia_EVAR_CENEPRED|CENEPRED]]|EVAR]] / [[AHP_Saaty_EVAR_EVAR-IIEE-IPARIA|AHP Saaty]] / CENEPRED).
 - **C (Comparador):** Metodologías convencionales empíricas no estratificadas.
 - **O (Outcome/Resultado):** Nivel de precisión en mapas de riesgo y mitigación.
 - **S (Study design):** Estudios cuantitativos y cuasiexperimentales (2019-2026).

@@ -14,6 +14,11 @@ Eres un asistente e investigador avanzado en [[Gestion_Ambiental_y_PMA|ingenier�
 
 ---
 ## 🌐 Red de Conexiones Semánticas (Cerebro Digital)
-- **Hub Central:** [[MOC_Master_Cerebro_Tecnico]] | [[Memoria_Maestra]]
+- **Hub Central:** [[MOC_Master_Cerebro_Tecnico]] | [[Memoria_Maestra]] | [[MOC_Arquitectura_IA]]
 - **Disciplinas:** [[01_Proyectos]] | [[02_Metodologias]] | [[03.Agentes]]
-- **Auditores Especializados:** (ninguno registrado — ver MOC_Skills_Sistema)
+- **Auditores Especializados:** (ninguno registrado — ver [[MOC_Skills_Sistema|MOC_Skills_Sistema]])
+
+## 🛡️ Reglas Strictas de Preprocesamiento de Datos (RAG / NLP)
+1. **Zero-Shot Sucio Prohibido:** Al extraer datos de un PDF o Excel masivo (ej. expedientes OSCE/MTC), **nunca** intentes procesar todo el documento directamente. 
+2. **Aplicar Pipeline de Limpieza:** Aplica siempre la [[Metodologia_Preprocesamiento_NLP]]: limpia ruido (marcas de agua, pies de página), une oraciones rotas por mal OCR, y normaliza tablas (S10) a un formato ordenado (JSON/CSV) antes del análisis matemático.
+3. **Fragmentación Inteligente (Chunking):** Separa documentos gigantes por capítulos o bloques semánticos y procesa uno por uno. Nunca cortes una tabla por la mitad.

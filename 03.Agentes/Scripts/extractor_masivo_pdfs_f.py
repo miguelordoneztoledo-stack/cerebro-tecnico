@@ -13,6 +13,8 @@ def sanitize_filename(filename):
     return filename
 
 def extract_pdfs():
+    import sys
+    sys.stdout.reconfigure(encoding='utf-8')
     os.makedirs(DEST_DIR, exist_ok=True)
     
     # Recolectar todos los PDFs
@@ -54,11 +56,12 @@ def extract_pdfs():
                 f.write("  - videotutoriales_f\n")
                 f.write(f"original_path: \"{pdf_path}\"\n")
                 f.write("---\n\n")
+                f.write("**Índice Principal:** [[MOC_Videotutoriales_Ingenieria]]\n\n")
                 f.write(md_text)
                 
             procesados += 1
         except Exception as e:
-            print(f" ❌ Error en {filename}: {str(e)}")
+            print(f" [ERROR] Error en {filename}: {str(e)}")
             errores += 1
 
     print("\n--- RESUMEN DE EXTRACCIÓN ---")

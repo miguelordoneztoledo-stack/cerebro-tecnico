@@ -3,7 +3,7 @@
 **PROYECTO DE INVERSIÓN PÚBLICA:**
 “MEJORAMIENTO Y AMPLIACIÓN DEL SERVICIO DE EDUCACIÓN SECUNDARIA EN I.E. MICAELA BASTIDAS DISTRITO DE IPARIA DE LA PROVINCIA DE CORONEL PORTILLO DEL DEPARTAMENTO DE UCAYALI” – CUI N° 2648571
 
-**EVALUACIÓN DEL RIESGO (EVAR):** Inundación Fluvial y Erosión Ribereña
+**[[Gestion_de_Riesgos_EVAR|EVALUACIÓN DEL RIESGO (EVAR)]]:** Inundación Fluvial y Erosión Ribereña
 **UBICACIÓN:** Distrito de Iparia, Provincia de Coronel Portillo, Departamento de Ucayali.
 **FUENTES DE INFORMACIÓN:** Sistema Nacional de Información para la Respuesta y Rehabilitación (SINPAD - INDECI), Boletín N° 37 Serie C de INGEMMET, Registro de Emergencias COER Ucayali y Datos de Campo SIGRID.
 
@@ -118,4 +118,4 @@ graph LR
 ## 🌐 Red de Conexiones Semánticas (Cerebro Digital)
 - **Hub Central:** [[MOC_Master_Cerebro_Tecnico]] | [[Memoria_Maestra]]
 - **Disciplinas:** [[01_Proyectos]] | [[02_Metodologias]] | [[03.Agentes]]
-- **Auditores Especializados:** (ninguno registrado — ver MOC_Skills_Sistema)
+- **Auditores Especializados:** (ninguno registrado — ver [[MOC_Skills_Sistema|MOC_Skills_Sistema]])

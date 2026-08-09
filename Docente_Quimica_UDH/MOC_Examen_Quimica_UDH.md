@@ -1,8 +1,8 @@
 # 🧪 MOC: Planificación Académica y Balotario de Química — UDH Civil
 
-**Universidad:** Universidad de Huánuco (UDH)
+**Universidad:** [[MOC_UDH_Academico|Universidad de Huánuco]] (UDH)
 **Facultad:** Facultad de Ingeniería
-**Programa Académico:** Ingeniería Civil
+**Programa Académico:** [[01_Proyectos|Ingeniería Civil]]
 **Asignatura:** Química (Código: `141503071`)
 **Ciclo:** I
 **Créditos:** 03 (Teoría: 2H, Práctica: 2H)
@@ -37,7 +37,7 @@ El contenido analítico del curso se divide en cuatro grandes unidades complemen
 ### 💨 TERCERA UNIDAD: Gases Ideales, Estado Líquido y Corrosión (Semanas 9-12)
 - **Gases:** Leyes de Boyle, Charles, Gay-Lussac y la ecuación de estado de los gases ideales.
 - **Estado Líquido:** Propiedades físicas (viscosidad, tensión superficial, capilaridad y presión de vapor).
-- **Química de Metales y Corrosión:** Propiedades químicas de los metales estructurales. Procesos electrolíticos y galvánicos. Corrosión de armaduras de acero en obras viales (PMA).
+- **Química de Metales y Corrosión:** Propiedades químicas de los metales estructurales. Procesos electrolíticos y galvánicos. Corrosión de armaduras de acero en obras viales ([[Gestion_Ambiental_y_PMA|PMA]]).
 
 ### 🧱 CUARTA UNIDAD: Cementos, Cristalografía e Ingeniería de Materiales (Semanas 13-16)
 - **Tecnología de Cementos:** Tipos de Cemento Portland (Tipo I, II, III, IV, V), reacciones de hidratación y adición de aditivos químicos.
@@ -83,7 +83,7 @@ Como parte de las horas prácticas, el curso implementa metodologías experiment
 - **Proyectos Históricos:** [[MOC_Ruta_HU_112]] | [[MOC_Estadio_Ambo]] | [[MOC_Conchumayo_GORE]] | [[MOC_EIA_Estadio_Panao]]
 - **Investigación y UDH:** [[MOC_UDH_Academico]] | [[MOC_Tesis_Luz]] | [[Investigacion_Papers]]
 - **Metodologías Unificadas:** [[Metodologia_EVAR_CENEPRED]] | [[Metodologia_EVAP_CONESA]] | [[Metodologia_SST_G050]]
-- **Auditores y Agentes:** (ninguno registrado — ver MOC_Skills_Sistema)
+- **Auditores y Agentes:** (ninguno registrado — ver [[MOC_Skills_Sistema|MOC_Skills_Sistema]])
 - [[Gestion_Ambiental_y_PMA]] (Referencia temática: pma)
 
 ---

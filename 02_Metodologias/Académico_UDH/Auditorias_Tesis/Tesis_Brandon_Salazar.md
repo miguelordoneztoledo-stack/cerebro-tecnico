@@ -30,8 +30,8 @@ En el diseño inicial, los instrumentos de recolección de datos (Fichas / Check
 
 ### 2. Obligatoriedad de Estadística Inferencial
 A pesar de tener un diseño Pre-experimental muy sólido, la tesis proponía evaluar los resultados usando solo *Estadística Descriptiva*. Para un diseño donde la hipótesis plantea que la herramienta "influye significativamente", es obligatorio declarar el uso de **Estadística Inferencial**:
-*   Prueba de normalidad de **Shapiro-Wilk** (para $N < 50$).
-*   Prueba **T de Student para muestras emparejadas** o **Wilcoxon**.
+*   Prueba de normalidad de **[[3-Prueba de normalidad-Especialización|Shapiro-Wilk]]** (para $N < 50$).
+*   Prueba **T de Student para muestras emparejadas** o **[[7-Media-Wilcoxon-Especialización|Wilcoxon]]**.
 
 ### 3. Falta de Trazabilidad Dimensión-Indicador
 Los anexos no detallaban a qué dimensión o indicador correspondía cada ítem a observar. Un instrumento formal **debe** tener las columnas "Dimensión" e "Indicador" copiadas exactamente de la Matriz de Operacionalización.
@@ -47,4 +47,4 @@ El tesista había investigado fuentes primarias valiosas (PMI 2021, OIT 2026) y 
 ## 🌐 Red de Conexiones Semánticas (Cerebro Digital)
 - **Hub Central:** [[MOC_Master_Cerebro_Tecnico]] | [[Memoria_Maestra]]
 - **Disciplinas:** [[01_Proyectos]] | [[02_Metodologias]] | [[03.Agentes]]
-- **Auditores Especializados:** (ninguno registrado — ver MOC_Skills_Sistema)
+- **Auditores Especializados:** (ninguno registrado — ver [[MOC_Skills_Sistema|MOC_Skills_Sistema]])

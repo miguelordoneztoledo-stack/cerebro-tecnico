@@ -16,7 +16,7 @@ El proyecto de inversión pública comprende el mejoramiento integral de las ins
 * **Altitud de la Capital:** 2,518 msnm (Región Quechua, margen derecha del río Charamayo).
 * **Vías de Acceso:**
   - Tramo Huánuco - Puente Rancho: 22 km (Carretera Central PE-22, ~32 min).
-  - Tramo Puente Rancho - Panao: 41.9 km (Vía Departamental Ruta HU-112, ~1 hora 16 min).
+  - Tramo Puente Rancho - Panao: 41.9 km (Vía Departamental [[MOC_Ruta_HU_112|Ruta HU-112]], ~1 hora 16 min).
 
 ---
 
@@ -32,7 +32,7 @@ La zona de Panao es altamente vulnerable a peligros de origen natural, con un hi
 
 ## 🪨 3. Análisis de Factores de Susceptibilidad del Territorio
 
-Conforme al manual de **CENEPRED (2da versión)**, el estudio estratifica los factores condicionantes físicos en el área de estudio del estadio:
+Conforme al manual de **[[Metodologia_EVAR_CENEPRED|CENEPRED]] (2da versión)**, el estudio estratifica los factores condicionantes físicos en el área de estudio del estadio:
 
 ### A. Geología Local (Complejo Marañón)
 La zona del proyecto se encuentra asentada sobre dos formaciones metamórficas de susceptibilidad variada:
@@ -52,7 +52,7 @@ La zona del proyecto se encuentra asentada sobre dos formaciones metamórficas d
 
 ## 📊 4. Matriz de Saaty y Metodología AHP (CENEPRED)
 
-El cálculo del peligro se realizó mediante el **Proceso de Análisis Jerárquico (AHP) de Saaty**:
+El cálculo del peligro se realizó mediante el **[[AHP_Saaty_EVAR_EVAR-IIEE-IPARIA|Proceso de Análisis Jerárquico (AHP) de Saaty]]**:
 
 * **Factores Condicionantes:** Ponderación de Geología, Geomorfología y Pendiente frente al factor desencadenante (Precipitación extrema de SENAMHI).
 * **Parámetros de Vulnerabilidad:** Se estratificó la dimensión social (material estructural de viviendas a base de tapial y adobe predominantes en Panao), dimensión económica (alta tasa de analfabetismo y 54.1 de pobreza monetaria, puesto 223 a nivel nacional), y dimensión ambiental.

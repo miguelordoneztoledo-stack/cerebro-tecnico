@@ -1,5 +1,5 @@
 ---
-title: "Dictamen - Evaluación de la eficacia de un biofiltro a base de carbón activado de eucalipto y biosorbente de cuyinaza para la remoción de contaminantes en los efluentes del relave minero"
+title: "Dictamen - [[Dictamen_Exhaustivo_Capitulos_y_Global_Tesis_Biofiltro_UDH|Evaluación de la eficacia de un biofiltro a base de carbón activado de eucalipto y biosorbente de cuyinaza para la remoción de contaminantes en los efluentes del relave minero]]"
 date: 2026-07-29
 tags: [auditoria, udh, tesis]
 ---

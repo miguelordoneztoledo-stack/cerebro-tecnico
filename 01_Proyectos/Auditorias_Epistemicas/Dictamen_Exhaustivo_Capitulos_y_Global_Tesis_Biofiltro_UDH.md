@@ -1,8 +1,8 @@
 ---
-tags: [DictamenExhaustivo, CapituloPorCapitulo, EvaluacionGlobal, UDH, Biofiltro, Atacocha]
+tags: [DictamenExhaustivo, CapituloPorCapitulo, EvaluacionGlobal, UDH, Biofiltro, [[Analisis_Cualitativo_Evaluacion_cualitativa_del_uso_de_cuyinaza_y_eucalipto_en_comunidades_aledanas_a_Atacocha|Atacocha]]]
 fecha: 2026-07-28
 estatus: OBSERVADO_CON_PLIEGO_SUBSANATORIO
-autor_tesis: Waldir Hector Ildefonso Alberto
+autor_tesis: [[Dictamen_Waldir_Hector_Ildefonso_Alberto|Waldir Hector Ildefonso Alberto]]
 asesor_tesis: Mg. Simeon Edmundo Calixto Vargas
 universidad: Universidad de Huánuco (UDH)
 ---

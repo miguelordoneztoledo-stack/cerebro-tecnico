@@ -1,5 +1,5 @@
 ---
-title: "Dictamen - Colegio Iparia"
+title: "Dictamen - [[Elementos_Expuestos_Iparia|Colegio Iparia]]"
 date: 2026-07-30
 tags: [auditoria, udh, tesis]
 ---

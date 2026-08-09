@@ -2,7 +2,7 @@
 tags: [DictamenUnificado, CapituloPorCapitulo, EvaluacionGlobal, APA7, ReglamentoUDH, UDH, Biofiltro, Atacocha]
 fecha: 2026-07-28
 estatus: OBSERVADO_CON_PLIEGO_SUBSANATORIO
-autor_tesis: Waldir Hector Ildefonso Alberto
+autor_tesis: [[Dictamen_Waldir_Hector_Ildefonso_Alberto|Waldir Hector Ildefonso Alberto]]
 asesor_tesis: Mg. Simeon Edmundo Calixto Vargas
 universidad: Universidad de Huánuco (UDH)
 ---

@@ -1,9 +1,9 @@
-# ELEMENTOS EXPUESTOS DEL PROYECTO - EVALUACIÓN DEL RIESGO (EVAR)
+# ELEMENTOS EXPUESTOS DEL PROYECTO - [[Gestion_de_Riesgos_EVAR|EVALUACIÓN DEL RIESGO (EVAR)]]
 
 **PROYECTO DE INVERSIÓN:** “MEJORAMIENTO Y AMPLIACIÓN DEL SERVICIO DE EDUCACIÓN SECUNDARIA EN I.E. MICAELA BASTIDAS DISTRITO DE IPARIA DE LA PROVINCIA DE CORONEL PORTILLO DEL DEPARTAMENTO DE UCAYALI”
 **CUI N°:** 2648571
-**UBICACIÓN:** Distrito de Iparia, Provincia de Coronel Portillo, Departamento de Ucayali.
-**NORMATIVA DE REFERENCIA:** Manual para la Evaluación de Riesgos Originados por Fenómenos Naturales (CENEPRED, 2da Edición) y Lineamientos para Infraestructura Educativa.
+**UBICACIÓN:** Distrito de [[Antecedentes_Inundaciones_Iparia|Iparia]], Provincia de Coronel Portillo, Departamento de Ucayali.
+**NORMATIVA DE REFERENCIA:** Manual para la Evaluación de Riesgos Originados por Fenómenos Naturales ([[Metodologia_EVAR_CENEPRED|CENEPRED]], 2da Edición) y Lineamientos para Infraestructura Educativa.
 
 ---
 

@@ -2,7 +2,7 @@
 tags:
   - master_ia
   - teoria
-source: Índice_Cognitive Devices.pdf
+source: Índice_[[MIA_A2_Mod5_Cognitive Devices|Cognitive Devices]].pdf
 ---
 
 **Módulo Cognitive Devices Índice** 

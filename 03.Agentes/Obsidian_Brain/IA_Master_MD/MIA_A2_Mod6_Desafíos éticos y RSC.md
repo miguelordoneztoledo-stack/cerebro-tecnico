@@ -59,7 +59,7 @@ source: MIA_A2_Mod6_Desafíos éticos y RSC.pdf
 
 ## **1. Ética en la Inteligencia Artificial** 
 
-_“Gracias a el desarrollo de nuevos algoritmos específicamente en el ámbito del Deep Learning las máquinas son capaces de aprender por si mismas, retroalimentando su conocimiento a partir de nuevos_ _<u>y antiguos datos.”</u>_ 
+_“Gracias a el desarrollo de nuevos algoritmos específicamente en el ámbito del [[MIA_A2_Mod4_Machine Learning y Deep Learning|Deep Learning]] las máquinas son capaces de aprender por si mismas, retroalimentando su conocimiento a partir de nuevos_ _<u>y antiguos datos.”</u>_ 
 
 ### **1.1. Inteligencia Artificial** 
 
@@ -1793,7 +1793,7 @@ Es necesario Definir unos niveles mínimos de fiabilidad y precisión para cada 
 
 Asimismo, será necesario Promover la implantación de un sistema de protección o de almacenamiento que permita crear copias de seguridad y proteger los datos de pacientes ante cualquier tipo de inconveniente, ya sea apagón, error o destrucción del sistema, ataques de seguridad. 
 
-No todos los modelos algorítmicos ofrecen los mismos resultados en los distintos casos de uso. El expertise en el ámbito health (y la experiencia previa de otras investigaciones y organizaciones) será esencial para saber escoger entre Machine Learning y Deep Learning 
+No todos los modelos algorítmicos ofrecen los mismos resultados en los distintos casos de uso. El expertise en el ámbito health (y la experiencia previa de otras investigaciones y organizaciones) será esencial para saber escoger entre [[MIA_A2_Mod4_Machine Learning y Deep Learning|Machine Learning]] y Deep Learning 
 
 #### **Autonomía y supervisión humana** 
 

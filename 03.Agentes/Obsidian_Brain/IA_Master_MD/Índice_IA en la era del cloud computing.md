@@ -79,7 +79,7 @@ Centro Europeo de Postgrado
 
 - 4.11. RED HAT OPENSHIFT DATA SCIENCE 
 
-- 4.12. ACTIVIDAD COMPLEMENTARIA. CONTENEDORES Y NPL 
+- 4.12. ACTIVIDAD COMPLEMENTARIA. CONTENEDORES Y [[Índice_Procesamiento del Lenguaje Natural|NPL]] 
 
 ## **CONCLUSIONES** 
 
@@ -95,7 +95,7 @@ Centro Europeo de Postgrado
 
 - 1.6. RESUMEN DEL APARTADO Y ACTIVIDADES DE FORTALECIMIENTO DEL CAPÍTULO 
 
-## **UNIDAD 2. APIS DE VISIÓN ARTIFICIAL Y NPL** 
+## **UNIDAD 2. APIS DE [[Índice_Visión Artificial|VISIÓN ARTIFICIAL]] Y NPL** 
 
 - 2.1. HERRAMIENTAS DE PYTHON 
 
@@ -125,7 +125,7 @@ Centro Europeo de Postgrado
 
 - 3.3.1. ¿QUÉ ES IBM WATSON? 
 
-- 3.3.2. APLICACIONES DE IA / MACHINE LEARNING DE IBM 
+- 3.3.2. APLICACIONES DE IA / [[Índice_Machine learning y deep learning|MACHINE LEARNING]] DE IBM 
 
 - 3.4. MICROSOFT 
 

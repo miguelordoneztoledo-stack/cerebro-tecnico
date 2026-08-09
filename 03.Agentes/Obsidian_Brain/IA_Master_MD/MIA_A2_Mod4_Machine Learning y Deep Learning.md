@@ -145,7 +145,7 @@ La máquina de Turing asemeja el funcionamiento de una CPU actual, cuenta con ti
 
 **Centro Europeo de Postgrado                                                             Módulo. Machine Learning y Deep Learning** 
 
-Como continuación de su trabajo Alan Turing publico un nuevo artículo en 1950 llamado “Computing Machinery and Intelligence” [3] de donde se extrae la famosa prueba de Turing o test de Turing. Esta prueba consiste en un examen de la capacidad de una máquina para exhibir un comportamiento inteligente similar al de un ser humano o indistinguible de este. Esta prueba consistía en que un observador externo (humano) evaluara una conversación en lenguaje natural. En el test participaban tanto humanos como una máquina diseñada para generar respuestas similares a las de un humano. El observador debía ser capaz de discernir en cinco minutos de conversación si su interlocutor era humano o máquina. Esta prueba se realizaba a través de un teclado y un monitor para eliminar la capacidad de la máquina de convertir texto en habla. 
+Como continuación de su trabajo Alan Turing publico un nuevo artículo en 1950 llamado “Computing Machinery and Intelligence” [3] de donde se extrae la famosa prueba de Turing o test de Turing. Esta prueba consiste en un examen de la capacidad de una máquina para exhibir un comportamiento inteligente similar al de un ser humano o indistinguible de este. Esta prueba consistía en que un observador externo (humano) evaluara una conversación en [[MIA_A1_Mod3_Procesamiento Lenguaje Natural|lenguaje natural]]. En el test participaban tanto humanos como una máquina diseñada para generar respuestas similares a las de un humano. El observador debía ser capaz de discernir en cinco minutos de conversación si su interlocutor era humano o máquina. Esta prueba se realizaba a través de un teclado y un monitor para eliminar la capacidad de la máquina de convertir texto en habla. 
 
 A partir de esta prueba Alan Turing llego a la conclusión de que ordenadores de propósito general podrían ser capaces de “aprender”. Esto abrió la puerta a nuevas cuestiones como: ¿Seria un ordenador capaz de realizar tareas como si fuese un ser humano? ¿Podría un ordenador aprender por si mismo a realizar una tarea especifica? ¿Podría hacerlo en base a los datos que le proporcionamos? 
 
@@ -1836,7 +1836,7 @@ En términos de clasificación, el aprendizaje por refuerzo no puede incluirse e
 
 El aprendizaje por refuerzo esta caracterizado por la toma de decisiones de un agente en función de su ambiente, basándose en un sistema de recompensas y penalizaciones, tratando de maximizar las primeras. Dentro de los modelos de aprendizaje por refuerzo encontramos cuatro elementos esenciales: 
 
-- **Agente:** El programa que entrenamos para la toma de decisiones. El algoritmo en si es el agente. 
+- **[[Agente_Coordinador|Agente]]:** El programa que entrenamos para la toma de decisiones. El algoritmo en si es el agente. 
 
 - **Acción:** Es el conjunto de todos los posibles movimientos que puede realizar el agente. Este elemento es bastante auto-explicativo, pero debemos tener en cuenta que el agente debe elegir entre un conjunto de acciones predefinidas y finitas para realizar en respuesta a un estímulo del ambiente. 
 
@@ -2088,7 +2088,7 @@ En la Ilustración 86 podemos ver los diferentes elementos que intervienen en el
 
 - Una función de salida o transferencia que se encarga de proporcionar la salida de la neurona 
 
-El modo en el que se organizan las distintas capas de las redes neuronales se conoce como arquitectura neuronal. Por medio de esta arquitectura se busca emular una serie de conceptos claves de la arquitectura biológica [61] 
+El modo en el que se organizan las distintas capas de las redes neuronales se conoce como [[MOC_Arquitectura_IA|arquitectura neuronal]]. Por medio de esta arquitectura se busca emular una serie de conceptos claves de la arquitectura biológica [61] 
 
 - **Procesamiento paralelo:** En un modelo biológico la información se procesa al mismo tiempo en millones de neuronas. Las redes artificiales pretenden emular este comportamiento, logrando acortar significativamente los tiempos de entrenamiento. 
 

@@ -1,7 +1,7 @@
 # 📚 MOC: Evaluación de Propiedades Mecánicas y Huella de Carbono — Tesis Luz Clarita
 
 **Autor:** Ing. Luz Clarita Valdivia Martel
-**Institución:** Universidad Nacional Hermilio Valdizán (UNHEVAL)
+**Institución:** [[MOC_UDH_Academico|Universidad Nacional Hermilio Valdizán (UNHEVAL)]]
 **Escuela de Posgrado:** Maestría en Diseño y Construcción de Obras Viales
 **Fecha:** Mayo 2026
 **Bóveda Relacionada:** [[MOC_UDH_Academico]], [[MOC_Quimica_Ambiental]], [[MOC_Master_Gestion_Riesgos]]
@@ -10,7 +10,7 @@
 
 ## 📝 1. Resumen de la Investigación
 
-La investigación evalúa el efecto técnico y ecológico de incorporar **partículas de caucho reciclado de neumáticos** como sustituto del agregado fino en mezclas de concreto destinadas a pavimentos rígidos. El objetivo declarado fue *"Calcular cómo varían las propiedades mecánicas, la durabilidad y la huella de carbono del concreto para pavimentos con la adición de productos de llantas recicladas"*.
+La investigación evalúa el efecto técnico y ecológico de incorporar **partículas de caucho reciclado de neumáticos** como sustituto del agregado fino en mezclas de concreto destinadas a pavimentos rígidos. El objetivo declarado fue *"Calcular cómo varían las propiedades mecánicas, la durabilidad y la [[MOC_Quimica_Ambiental|huella de carbono]] del concreto para pavimentos con la adición de productos de llantas recicladas"*.
 
 ### Mezclas Evaluadas:
 - **MP (0%):** Mezcla Patrón (Concreto Convencional).
@@ -46,7 +46,7 @@ Un análisis exhaustivo del borrador final reveló dos inconsistencias de extrem
 - **Declaración en el Borrador:** En el *Resumen* e *Introducción*, la tesista afirma que *"la mezcla MCR-4 (40% de caucho) logró un incremento del 27.2% en resistencia en comparación con el concreto tradicional"*.
 - **Causa del Error:** La tesista confundió el ratio de retención con el ratio de incremento. La mezcla MCR-4 retiene únicamente el **23.3%** ($65.33 / 280.00$) de la resistencia patrón, perdiendo el **76.7%** ($100\% - 23.3\%$). Es un error de interpretación grave presentar una caída catastrófica de $280\ kg/cm^2$ a $65\ kg/cm^2$ como un "incremento".
 
-### B. El Sesgo en la Prueba No Paramétrica de Kruskal-Wallis (SPSS)
+### B. El Sesgo en la Prueba No Paramétrica de [[1-Estadística-Descriptiva-Especialización|Kruskal-Wallis]] (SPSS)
 La tesista concluyó mediante la prueba de Kruskal-Wallis en SPSS que *"la adición de caucho de 10% a 40% no afecta significativamente la resistencia a la compresión y flexión del concreto viales"* (obteniendo un p-valor de **0.204** para compresión y **0.051** para abrasión).
 
 * **Falla de Diseño Muestral:** En el software SPSS, la base de datos se cargó desequilibrada: **$N = 1$ para la mezcla patrón (MP)** y **$N = 3$ para cada grupo MCR**. Al excluir dos probetas del grupo control, el análisis pierde consistencia de rangos.

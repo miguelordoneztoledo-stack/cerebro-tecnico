@@ -9,7 +9,7 @@ Este documento define la arquitectura y el flujo de trabajo sincronizado para op
 Toda la información reside en **Microsoft OneDrive**, lo que garantiza que cualquier cambio realizado en un dispositivo se refleje automáticamente en los demás.
 
 * **Bóveda Principal (Obsidian):** `C:\Users\Usuario\OneDrive\Cerebro_Tecnico`
-* **Archivos de Proyectos y GIS:** `C:\Users\Usuario\OneDrive\Proyectos\` (ej. EVAR, SHP, Anexos)
+* **Archivos de Proyectos y GIS:** `C:\Users\Usuario\OneDrive\Proyectos\` (ej. [[Gestion_de_Riesgos_EVAR|EVAR]], SHP, Anexos)
 
 ---
 

@@ -5,7 +5,7 @@ tags:
 source: MIA_A1_Mod3_Procesamiento Lenguaje Natural.pdf
 ---
 
-# **Módulo Procesamiento del Lenguaje Natural (NLP)** 
+# **Módulo [[Índice_Procesamiento del Lenguaje Natural|Procesamiento del Lenguaje Natural]] (NLP)** 
 
 
 
@@ -74,7 +74,7 @@ _“El lenguaje natural, en las disciplinas de la neuropsicología, la lingüís
 
 ### **1.1. Qué es el Procesamiento del Lenguaje Natural** 
 
-Hasta este momento hemos estudiado en este máster diversas áreas de la Inteligencia Artificial, desde puntos de vista tanto teóricos como prácticos. Hemos analizado los tipos de IA, su historia, los modelos más conocidos de _Deep Learning y Machine Learning_ . También hemos aprendido cómo funciona la Visión Artificial, así como los dispositivos de cómputo que soportan la ejecución de este tipo de modelos y su posible despliegue en cloud. 
+Hasta este momento hemos estudiado en este máster diversas áreas de la Inteligencia Artificial, desde puntos de vista tanto teóricos como prácticos. Hemos analizado los tipos de IA, su historia, los modelos más conocidos de _[[MIA_A2_Mod4_Machine Learning y Deep Learning|Deep Learning]] y [[MIA_A2_Mod4_Machine Learning y Deep Learning|Machine Learning]]_ . También hemos aprendido cómo funciona la [[MIA_A1_Mod2_Visión Artificial|Visión Artificial]], así como los dispositivos de cómputo que soportan la ejecución de este tipo de modelos y su posible despliegue en cloud. 
 
 De entre las habilidades principales que se esperan de un sistema inteligente, en esta asignatura trataremos el lenguaje humano. Recordemos que el primer test que trató de determinar si un sistema era verdaderamente inteligente, el test de Turing, se basaba exclusivamente en la capacidad de responder preguntas en lenguaje natural. Así sucede también con un experimento más evolucionado, la habitación china, en la que se trata de demostrar que sólo si el sistema inteligente comprende el significado detrás de la gramática y sintaxis es cuando realmente se puede determinar que ciertamente tiene inteligencia. 
 

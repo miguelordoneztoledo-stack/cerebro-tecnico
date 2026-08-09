@@ -11,7 +11,7 @@ aliases:
 
 # 🚀 Suite de Herramientas Avanzadas (Estilo Claude Code)
 
-Este documento registra la implementación de la nueva suite de habilidades autónomas instaladas en `C:\IA_Proyectos\skills\`. Estas herramientas fueron inspiradas en las capacidades avanzadas de Claude Code (Codex, Remote Control, MCP Visual) y adaptadas para el flujo de trabajo de [[01_Proyectos]] y proyectos como [[fitsa_hu112_datos_tecnicos]].
+Este documento registra la implementación de la nueva suite de habilidades autónomas instaladas en `C:\IA_Proyectos\skills\`. Estas herramientas fueron inspiradas en las capacidades avanzadas de Claude Code (Codex, Remote Control, MCP Visual) y adaptadas para el flujo de trabajo de [[01_Proyectos|[[01_Proyectos]]]] y proyectos como [[fitsa_hu112_datos_tecnicos]].
 
 ## 🛠️ Herramientas Implementadas
 

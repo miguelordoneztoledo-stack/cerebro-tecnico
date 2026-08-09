@@ -85,7 +85,7 @@ source: MIA_A2_Mod5_Cognitive Devices.pdf
 
 ## **1. Evolución de los sistemas computacionales** 
 
-_“En la actualidad hay múltiples empresas trabajando por liderar la revolución de la computación cuántica. IBM, Google, Intel y Honeywell son las empresas estadounidenses que ya tienen ordenadores cuánticos funcionales con una capacidad interesante como entorno de pruebas e investigación.”_ 
+_“En la actualidad hay múltiples empresas trabajando por liderar la revolución de la [[Índice_IA en la era del cloud computing|computación cuántica]]. IBM, Google, Intel y Honeywell son las empresas estadounidenses que ya tienen ordenadores cuánticos funcionales con una capacidad interesante como entorno de pruebas e investigación.”_ 
 
 El origen de los sistemas computacionales empleados por los seres humanos se remonta a las antiguas civilizaciones griegas y romanas con la aparición del ábaco, considerado como el primer sistema de cálculo construido por el ser humano. Este instrumento compuesto por cuentas insertadas en varillas montadas sobre un marco rectangular permitía realizar cálculos complejos con gran rapidez y precisión. Sin embargo, este instrumento no puede ser considerado un computador ya que carece de un elemento fundamental: un programa que permita operar con él. 
 
@@ -2313,7 +2313,7 @@ El control de dispositivos por voz ha avanzado a la par que ha avanzado el campo
 
 **Centro Europeo de Postgrado** 
 
-Por su propia naturaleza, las VUI pueden estar contenidas en dispositivos o dentro de aplicaciones. La infraestructura de back-end, incluidas las tecnologías de inteligencia artificial utilizadas para crear los componentes de voz del VUI, a menudo se almacenan en una nube pública o privada donde se procesa la voz del usuario. En la nube, los componentes de IA determinan la intención del usuario y devuelven una respuesta determinada al dispositivo o aplicación donde el usuario está interactuando con la VUI. Para ello la tecnología empleada dentro de la inteligencia artifcial se basa en dos pilares: Procesamiento del Lenguaje Natural y la tecnología speech to text. 
+Por su propia naturaleza, las VUI pueden estar contenidas en dispositivos o dentro de aplicaciones. La infraestructura de back-end, incluidas las tecnologías de inteligencia artificial utilizadas para crear los componentes de voz del VUI, a menudo se almacenan en una nube pública o privada donde se procesa la voz del usuario. En la nube, los componentes de IA determinan la intención del usuario y devuelven una respuesta determinada al dispositivo o aplicación donde el usuario está interactuando con la VUI. Para ello la tecnología empleada dentro de la inteligencia artifcial se basa en dos pilares: [[Índice_Procesamiento del Lenguaje Natural|Procesamiento del Lenguaje Natural]] y la tecnología speech to text. 
 
 - PLN: Estas siglas hacen referencia al Procesamiento de Lenguaje Natural (PLN), la denominación que recibe un subcampo de la informática y la inteligencia artificial relacionada con las interacciones entre las computadoras y los lenguajes humanos. Se utiliza para aplicar algoritmos de aprendizaje automático al texto y al habla. Entre otras aplicaciones, se pueden crear sistemas como reconocimiento de voz, resumen de documentos, traducción automática, detección de correo no deseado, reconocimiento de entidades con nombre, respuesta a preguntas, autocompletado, escritura predictiva, entre otros. 
 
