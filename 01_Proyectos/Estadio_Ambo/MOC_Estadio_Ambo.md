@@ -1,6 +1,12 @@
 ---
-tags: [MOC, proyecto, estadio_ambo]
+tags: [MOC, proyecto, estadio, ambo]
 tipo: MOC
+categoria: proyecto
+estado:
+entidad: GORE Huánuco
+cui:
+ubicacion: Ambo, Huánuco
+especialidad: [Ambiental, SST, EVAR]
 fecha_actualizacion: 2026-08-12
 ---
 

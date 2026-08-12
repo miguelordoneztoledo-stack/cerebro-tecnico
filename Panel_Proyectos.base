@@ -1,0 +1,91 @@
+filters:
+  and:
+    - file.ext == "md"
+properties:
+  note.estado:
+    displayName: Estado
+  note.entidad:
+    displayName: Entidad
+  note.cui:
+    displayName: CUI
+  note.ubicacion:
+    displayName: Ubicación
+  note.especialidad:
+    displayName: Especialidad
+  note.tipo:
+    displayName: Tipo
+  note.monto:
+    displayName: Monto S/
+  note.fecha_actualizacion:
+    displayName: Actualizado
+views:
+  - type: table
+    name: Proyectos
+    filters:
+      and:
+        - note.categoria == "proyecto"
+    order:
+      - file.name
+      - note.estado
+      - note.entidad
+      - note.cui
+      - note.ubicacion
+      - note.fecha_actualizacion
+    sort:
+      - property: note.estado
+        direction: ASC
+  - type: table
+    name: Pendientes
+    filters:
+      or:
+        - note.estado == "pendiente-vaciado"
+        - note.estado == "en-construccion"
+        - note.estado == "BORRADOR-NO-EMITIBLE"
+        - note.estado == "observado"
+    order:
+      - file.name
+      - note.estado
+      - note.entidad
+      - note.fecha_actualizacion
+  - type: table
+    name: Datos incompletos
+    filters:
+      and:
+        - note.categoria == "proyecto"
+        - or:
+            - note.estado.isEmpty()
+            - note.cui.isEmpty()
+            - note.entidad.isEmpty()
+    order:
+      - file.name
+      - note.estado
+      - note.entidad
+      - note.cui
+  - type: table
+    name: Normativa
+    filters:
+      and:
+        - note.tipo == "norma"
+    order:
+      - file.name
+      - note.numero
+      - note.rango
+      - note.estado
+  - type: table
+    name: Conceptos
+    filters:
+      and:
+        - note.tipo == "concepto"
+    order:
+      - file.name
+      - note.normativa
+  - type: table
+    name: Todo el vault
+    order:
+      - file.name
+      - note.tipo
+      - note.estado
+      - file.mtime
+    sort:
+      - property: file.mtime
+        direction: DESC

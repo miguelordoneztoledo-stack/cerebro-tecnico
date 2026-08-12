@@ -13,6 +13,10 @@ fecha_actualizacion: 2026-07-28
 
 # 🧠 MOC Master - Cerebro Técnico Digital (Unificado)
 
+> [!TIP] Panel de control
+> **[[Panel_Proyectos]]** — tabla viva de proyectos, pendientes y datos faltantes, construida con **Bases** (núcleo de Obsidian, sin plugins). Se actualiza sola al editar el frontmatter de cada nota.
+> Vistas: `Proyectos` · `Pendientes` · `Datos incompletos` · `Normativa` · `Conceptos` · `Todo el vault`.
+
 Bienvenidos a la nota central de control de tu **Cerebro Digital Acumulativo**, sincronizado para **Google Antigravity 2.0**, **Claude Code IA**, **OpenCode AI** y **Google NotebookLM**.
 
 ---

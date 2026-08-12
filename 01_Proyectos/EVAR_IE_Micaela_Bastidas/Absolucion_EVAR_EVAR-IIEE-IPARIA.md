@@ -1,7 +1,11 @@
 ---
 tags: [proyecto, evar, iparia, absolucion, gore-ucayali]
 tipo: absolucion
+categoria: entregable
 estado: pendiente-vaciado
+entidad: GORE Ucayali
+cui: 2648571
+fecha_actualizacion: 2026-08-12
 ---
 
 # 📋 Absolución de Observaciones — EVAR IIEE Iparia

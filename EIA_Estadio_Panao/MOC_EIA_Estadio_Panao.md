@@ -1,6 +1,12 @@
 ---
 tags: [MOC, proyecto, eia, panao]
 tipo: MOC
+categoria: proyecto
+estado:
+entidad:
+cui:
+ubicacion: Panao, Pachitea, Huánuco
+especialidad: [EIA, EVAR]
 fecha_actualizacion: 2026-08-12
 ---
 

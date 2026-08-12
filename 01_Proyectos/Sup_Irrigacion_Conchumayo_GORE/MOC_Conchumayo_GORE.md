@@ -1,6 +1,14 @@
 ---
-tags: [MOC, proyecto, sup_irrigacion_conchumayo_gore]
+tags: [MOC, proyecto, supervision, conchumayo]
 tipo: MOC
+categoria: proyecto
+estado: activo
+entidad: GORE Huánuco
+cui: 2166793
+ubicacion: Huánuco / Santa María del Valle
+especialidad: [Supervisión, SST, Ambiental, EVAR]
+monto: 59287102.41
+plazo_termino: 2027-07-20
 fecha_actualizacion: 2026-08-12
 ---
 

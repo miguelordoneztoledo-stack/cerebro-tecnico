@@ -1,9 +1,15 @@
 ---
-tags: [FITSA, HU-112, carretera, mantenimiento-periodico, proyecto]
-estado: Activo
-proyecto: FITSA Ruta HU-112 La Esperanza - Callagan Manzano
+tags: [MOC, proyecto, FITSA, HU-112]
+tipo: MOC
+categoria: proyecto
+estado: en-formulacion
+entidad: FITSA
+cui:
+ubicacion: Huánuco
+especialidad: [Ambiental, EVAR, SST, Vial]
 fecha_actualizacion: 2026-08-12
 ---
+
 # 🗺️ MOC: FITSA - Ruta HU-112 (La Esperanza - Callagan Manzano)
 
 > [!NOTE]

@@ -1,6 +1,13 @@
 ---
-tags: [MOC, proyecto, sst_irazola_ie64027]
+tags: [MOC, proyecto, SST, irazola]
 tipo: MOC
+categoria: proyecto
+estado: en-proceso
+entidad: GORE Ucayali
+cui: 2635656
+ubicacion: Irazola, Padre Abad, Ucayali
+especialidad: [SST]
+monto: 217631.83
 fecha_actualizacion: 2026-08-12
 ---
 
