@@ -87,7 +87,12 @@ Auditoría multidisciplinaria en el Valle Conchumayo con dron, 95 fotos georrefe
 | **P4 — Geotecnia (talud progresiva 1+240)** | c'=15.0 kPa, φ'=26.0°, H=6.5 m, β=65.0° → **FS = 0.362** | 🔴 Inestable / riesgo crítico |
 | **P5 — Campo (voz)** | Talud sin banquetas, personal trabajando debajo sin casco ni chaleco | 🔴 Acción: paralización preventiva del frente |
 
-**Hallazgos SST/Ambiental/EVAR recurrentes en las 95 evidencias fotográficas:** incumplimiento de EPP y de protección colectiva en zanjas; disposición inadecuada de material excedente en cauces naturales; susceptibilidad a movimiento en masa y desprendimiento de rocas. Normativa referida: [[Ley 29783]], [[D.S. 011-2019-TR]], [[Norma G.050]], [[R.M. 00143-2025-MINAM]], [[D.L. 1278]], [[NTP 900.058:2019]].
+**Hallazgos SST/Ambiental/EVAR en las 95 evidencias fotográficas:** [[Equipos de Protección Individual|incumplimiento de EPP]] y de [[Protección Colectiva en Zanjas|protección colectiva en zanjas]]; disposición inadecuada de [[Material Excedente|material excedente]] en [[Cauces Naturales|cauces naturales]]; susceptibilidad a [[Movimiento en Masa|movimiento en masa]] y [[Desprendimiento de Rocas|desprendimiento de rocas]].
+
+> [!WARNING] Estos hallazgos no están individualizados
+> Provienen de [[Inspeccion_2026-07-28_Irrigacion_Conchumayo]], donde el mismo diagnóstico se repite idéntico en las 95 evidencias. **Son presunciones globales, no hallazgos verificados foto a foto.** Requieren sustento individual antes de sostenerse ante el GORE.
+
+Normativa referida: [[Ley 29783]], [[D.S. 011-2019-TR]], [[Norma G.050]], [[D.L. 1278]], [[NTP 900.058-2019|NTP 900.058:2019]]. _(Se retiró de esta lista la [[R.M. 00143-2025-MINAM]]: es la Guía de Línea Base del SEIA, no norma de residuos.)_
 
 ---
 
