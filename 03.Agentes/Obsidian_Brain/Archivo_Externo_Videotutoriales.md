@@ -26,6 +26,32 @@ C:\IA_Proyectos\Archivo_Videotutoriales_MD\
 
 Nada fue eliminado. Las 843 notas de `_CONTENIDO_REAL\` conservan valor: son extracciones de PDFs técnicos (normativa MTC, hidráulica, sismorresistencia, EVAR). El criterio es **reingresar solo lo que se use**, con nombre propio y tags, no reimportar el bloque completo.
 
+## 📇 Índice temático del corpus
+
+Las 843 notas de `_CONTENIDO_REAL\` están catalogadas por tema en:
+
+```
+C:\IA_Proyectos\Archivo_Videotutoriales_MD\INDICE_TEMATICO.md
+```
+
+| Tema | Docs |
+| :--- | ---: |
+| GIS / Topografía / Dron | 189 |
+| Investigación / Estadística | 182 |
+| EVAR / Gestión de Riesgos | 124 |
+| Ambiental / EIA | 106 |
+| **Colección Enciclopedia OIT (SST)** | **94** |
+| Hidráulica / Hidrología | 78 |
+| SST / Seguridad | 86 |
+| Estructuras / Concreto | 27 |
+| Costos / Contrataciones | 18 |
+| Vial / MTC | 17 |
+| Geotecnia / Suelos | 14 |
+
+De ellas, **77 son normas, manuales o guías oficiales** identificadas (Ley 29664, DS 048-2011-PCM, PLANAGERD, ABC del SENACE, ISO 45001, manuales MTC, parámetros ANA, errores frecuentes en expedientes OSCE, entre otras).
+
+El hallazgo de mayor valor es la **Enciclopedia de Salud y Seguridad en el Trabajo de la OIT** — 94 capítulos completos que estaban dispersos con nombres numéricos ilegibles (`33.md`, `48.md`…) y ahora están identificados por tema.
+
 ## Cómo reingresar una nota
 
 1. Localizarla en `_CONTENIDO_REAL\`.
