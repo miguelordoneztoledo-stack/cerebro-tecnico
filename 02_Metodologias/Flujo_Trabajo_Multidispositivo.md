@@ -1,3 +1,9 @@
+---
+tags: [nota, metodologia]
+tipo: nota
+fecha_actualizacion: 2026-08-12
+---
+
 # Flujo de Trabajo Multidispositivo: Cerebro Técnico
 
 Este documento define la arquitectura y el flujo de trabajo sincronizado para operar sin interrupciones entre la **PC de Escritorio**, la **Laptop Lenovo** y la **Tablet Lenovo Tab K11**.

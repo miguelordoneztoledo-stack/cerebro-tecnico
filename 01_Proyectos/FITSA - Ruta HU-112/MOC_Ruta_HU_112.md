@@ -1,3 +1,9 @@
+---
+tags: [FITSA, HU-112, carretera, mantenimiento-periodico, proyecto]
+estado: Activo
+proyecto: FITSA Ruta HU-112 La Esperanza - Callagan Manzano
+fecha_actualizacion: 2026-08-12
+---
 # 🗺️ MOC: FITSA - Ruta HU-112 (La Esperanza - Callagan Manzano)
 
 > [!NOTE]
@@ -67,6 +73,27 @@ gantt
 ---
 *Última actualización: 2026-05-29 | Bóveda integrada y coordinada por [[Agente_Coordinador]].*
 
+
+---
+
+## 📂 Acceso Directo al Expediente
+
+- [Abrir carpeta del proyecto](file:///C:/Users/DESKTOP/OneDrive/Desktop/FITSA-MANTEN-%20PERIODICO/FITSA-%20Ruta%20HU-112%20(La%20Esperanza%20-%20Callagan%20Manzano))
+
+## ⚙️ Scripts del Ecosistema
+
+- `orquestador_hu112.py` — Orquestador del expediente
+- `watcher_supervision_autonomo.py` — Watcher de supervisión
+
+## 🧩 Skills Aplicadas al Expediente
+
+| Skill | Función | Ruta |
+| :--- | :--- | :--- |
+| `hecras-analyst` | Modelamiento hidráulico | `C:\IA_Proyectos\skills\hecras-analyst` |
+| `geotecnia-taludes` | Estabilidad de taludes | `C:\IA_Proyectos\skills\geotecnia-taludes` |
+| `auditor-sst` | Plan de Seguridad y Salud | `C:\IA_Proyectos\skills\auditor-sst` |
+| `auditor-ambiental` | FITSA Ambiental | `C:\IA_Proyectos\skills\auditor-ambiental` |
+| `fitsa_expediente_vial` | Expediente FITSA completo | `C:\IA_Proyectos\skills\fitsa_expediente_vial` |
 
 ---
 ## 🔗 Enlaces Puente de Unificación (Cerebro Digital Integrado)

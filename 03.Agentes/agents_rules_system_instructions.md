@@ -1,3 +1,9 @@
+---
+tags: [nota, agente, sistema]
+tipo: nota
+fecha_actualizacion: 2026-08-12
+---
+
 # Instrucciones del Sistema para el [[Agente_Coordinador|Agente de IA]]
 
 ## Perfil Profesional

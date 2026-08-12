@@ -1,3 +1,9 @@
+---
+tags: [nota, proyecto, fitsa---ruta-hu-112]
+tipo: nota
+fecha_actualizacion: 2026-08-12
+---
+
 # 📝 Memoria Descriptiva General: [[MOC_Ruta_HU_112|Ruta HU-112]]
 
 > [!NOTE]

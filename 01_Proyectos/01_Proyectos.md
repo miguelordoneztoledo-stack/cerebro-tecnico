@@ -1,3 +1,9 @@
+---
+tags: [MOC, proyecto]
+tipo: MOC
+fecha_actualizacion: 2026-08-12
+---
+
 # 📁 01_Proyectos — Índice de Carpeta
 
 > [!NOTE]

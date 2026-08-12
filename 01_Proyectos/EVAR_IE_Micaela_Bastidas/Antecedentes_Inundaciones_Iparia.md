@@ -1,3 +1,9 @@
+---
+tags: [nota, proyecto, evar_ie_micaela_bastidas]
+tipo: nota
+fecha_actualizacion: 2026-08-12
+---
+
 # ANTECEDENTES E HISTORIAL DE INUNDACIONES FLUVIALES Y EROSIÓN DE RIBERAS EN EL DISTRITO DE IPARIA Y ÁREA DE INFLUENCIA DEL PROYECTO
 
 **PROYECTO DE INVERSIÓN PÚBLICA:**

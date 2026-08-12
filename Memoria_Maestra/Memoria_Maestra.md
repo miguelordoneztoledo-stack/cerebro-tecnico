@@ -1,3 +1,9 @@
+---
+tags: [nota, sistema, memoria]
+tipo: nota
+fecha_actualizacion: 2026-08-12
+---
+
 # 📚 Memoria Maestra — Bóveda Central Cross-Platform
 
 > [!NOTE]

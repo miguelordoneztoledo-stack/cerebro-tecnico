@@ -1,3 +1,9 @@
+---
+tags: [MOC, proyecto, eia, panao]
+tipo: MOC
+fecha_actualizacion: 2026-08-12
+---
+
 # 🏟️ MOC: Evaluación de Riesgos y Ambiental (EIA / EVAR) — Estadio Municipal de Panao
 
 **Proyecto:** "Mejoramiento de los Servicios Deportivos del Estadio Municipal de la Ciudad de Panao, Distrito de Panao - Provincia de Pachitea - Región Huánuco"

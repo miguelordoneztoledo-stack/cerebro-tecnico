@@ -1,3 +1,9 @@
+---
+tags: [MOC, quimica]
+tipo: MOC
+fecha_actualizacion: 2026-08-12
+---
+
 # 🧪 MOC: Química Ambiental y Monitoreo de Emisiones
 
 > [!NOTE]

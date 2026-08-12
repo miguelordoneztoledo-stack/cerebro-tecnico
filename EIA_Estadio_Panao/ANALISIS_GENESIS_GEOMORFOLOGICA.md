@@ -1,3 +1,9 @@
+---
+tags: [nota, proyecto, eia, panao]
+tipo: nota
+fecha_actualizacion: 2026-08-12
+---
+
 # Análisis Técnico-Científico de las Clases de Génesis Geomorfológica
 ## Proyecto: Estadio Municipal de Panao — Área de Influencia (571.63 ha)
 

@@ -1,3 +1,9 @@
+---
+tags: [MOC, tesis, investigacion]
+tipo: MOC
+fecha_actualizacion: 2026-08-12
+---
+
 # 📚 MOC: Evaluación de Propiedades Mecánicas y Huella de Carbono — Tesis Luz Clarita
 
 **Autor:** Ing. Luz Clarita Valdivia Martel

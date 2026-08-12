@@ -1,3 +1,9 @@
+---
+tags: [nota, proyecto, fitsa---ruta-hu-112]
+tipo: nota
+fecha_actualizacion: 2026-08-12
+---
+
 # 🌳 Gestión Ambiental y Plan de Manejo Ambiental (PMA)
 
 > [!NOTE]

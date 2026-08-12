@@ -1,3 +1,9 @@
+---
+tags: [MOC, docencia, udh, quimica]
+tipo: MOC
+fecha_actualizacion: 2026-08-12
+---
+
 # 🧪 MOC: Planificación Académica y Balotario de Química — UDH Civil
 
 **Universidad:** [[MOC_UDH_Academico|Universidad de Huánuco]] (UDH)

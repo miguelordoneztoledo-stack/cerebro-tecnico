@@ -1,3 +1,9 @@
+---
+tags: [dashboard, agente, sistema, obsidian_brain]
+tipo: dashboard
+fecha_actualizacion: 2026-08-12
+---
+
 # 🧠 Dashboard Autónomo — Cerebro Técnico
 
 > [!NOTE]

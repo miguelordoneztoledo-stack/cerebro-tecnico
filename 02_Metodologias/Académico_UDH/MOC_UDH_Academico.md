@@ -1,3 +1,9 @@
+---
+tags: [MOC, metodologia, académico_udh]
+tipo: MOC
+fecha_actualizacion: 2026-08-12
+---
+
 # 🎓 MOC: Académico - Universidad de Huánuco (UDH)
 
 > [!NOTE]

@@ -1,3 +1,9 @@
+---
+tags: [MOC, riesgos, formacion]
+tipo: MOC
+fecha_actualizacion: 2026-08-12
+---
+
 # 🏆 MOC: Máster en Gestión de Riesgos en Infraestructura
 
 > [!NOTE]

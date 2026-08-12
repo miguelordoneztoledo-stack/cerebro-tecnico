@@ -1,3 +1,9 @@
+---
+tags: [MOC, proyecto, estadio_ambo]
+tipo: MOC
+fecha_actualizacion: 2026-08-12
+---
+
 # 🏟️ MOC: Expediente Técnico de Infraestructura y Seguridad — Estadio Municipal de Ambo
 
 **Proyecto:** "Mejoramiento y Ampliación del Estadio Municipal del Distrito de Ambo - Provincia de Ambo - Región Huánuco"
@@ -64,7 +70,27 @@ Establece las directrices y normas obligatorias de seguridad y salud en la obra 
 
 
 ---
+
+## 📦 Partidas del Expediente Técnico
+
+### Partida 26: LIMPIEZA FINAL, REVEGETACIÓN Y RESTAURACIÓN DE ÁREAS AUXILIARES
+- Retiro de escombros y residuos generados
+- Nivelación y acondicionamiento del terreno
+- Revegetación con especies nativas (2,064 msnm)
+- Monitoreo de supervivencia vegetal (6 meses)
+- **Detalle:** [[CONTEXTO#Partida 26: LIMPIEZA FINAL, REVEGETACIÓN Y RESTAURACIÓN DE ÁREAS AUXILIARES]]
+
+### Partida 27: DESMOVILIZACIÓN DE EQUIPOS, MAQUINARIA Y ENTREGA DE OBRA
+- Retiro de maquinaria pesada y equipos
+- Disposición final de residuos peligrosos
+- Entrega formal de la obra
+- Informe de cierre ambiental
+- **Detalle:** [[CONTEXTO#Partida 27: DESMOVILIZACIÓN DE EQUIPOS, MAQUINARIA Y ENTREGA DE OBRA]]
+
+---
+
 ## 🔗 Enlaces Puente de Unificación (Cerebro Digital Integrado)
+- **Contexto del Proyecto:** [[CONTEXTO]]
 - **Hub Central:** [[MOC_Master_Cerebro_Tecnico]] | [[Memoria_Maestra]]
 - **Proyectos Históricos:** [[MOC_Ruta_HU_112]] | [[MOC_Estadio_Ambo]] | [[MOC_Conchumayo_GORE]] | [[MOC_EIA_Estadio_Panao]]
 - **Investigación y UDH:** [[MOC_UDH_Academico]] | [[MOC_Tesis_Luz]] | [[Investigacion_Papers]]

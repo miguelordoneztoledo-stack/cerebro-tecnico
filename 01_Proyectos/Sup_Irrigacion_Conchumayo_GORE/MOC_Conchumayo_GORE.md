@@ -1,3 +1,9 @@
+---
+tags: [MOC, proyecto, sup_irrigacion_conchumayo_gore]
+tipo: MOC
+fecha_actualizacion: 2026-08-12
+---
+
 # 💧 MOC: Supervisión de Obra — Irrigación Río Conchumayo (GORE Huánuco)
 
 > [!NOTE]

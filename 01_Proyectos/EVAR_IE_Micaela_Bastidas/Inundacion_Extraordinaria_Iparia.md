@@ -1,3 +1,9 @@
+---
+tags: [nota, proyecto, evar_ie_micaela_bastidas]
+tipo: nota
+fecha_actualizacion: 2026-08-12
+---
+
 # ANÁLISIS ESCENARIO ANTE EVENTO DE INUNDACIÓN EXTRAORDINARIA ($T = 50 - 100$ AÑOS) EN LA I.E. MICAELA BASTIDAS
 
 **PROYECTO DE INVERSIÓN PÚBLICA:**

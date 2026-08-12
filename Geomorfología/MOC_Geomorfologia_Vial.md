@@ -1,3 +1,9 @@
+---
+tags: [MOC, geomorfologia]
+tipo: MOC
+fecha_actualizacion: 2026-08-12
+---
+
 # 🏔️ MOC: Geomorfología Vial y Análisis de Pendientes
 
 > [!NOTE]

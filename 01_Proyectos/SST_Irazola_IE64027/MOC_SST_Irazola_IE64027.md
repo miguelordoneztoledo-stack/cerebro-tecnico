@@ -1,3 +1,9 @@
+---
+tags: [MOC, proyecto, sst_irazola_ie64027]
+tipo: MOC
+fecha_actualizacion: 2026-08-12
+---
+
 # 👷 MOC: Plan de Seguridad y Salud en el Trabajo — I.E. 64027 Irazola
 
 > [!NOTE]

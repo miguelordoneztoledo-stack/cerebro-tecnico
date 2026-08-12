@@ -1,3 +1,9 @@
+---
+tags: [MOC, proyecto, auditorias_epistemicas]
+tipo: MOC
+fecha_actualizacion: 2026-08-12
+---
+
 # 🏛️ MOC: Auditorías Epistémicas de Tesis (Censor Socrático)
 
 > [!NOTE]

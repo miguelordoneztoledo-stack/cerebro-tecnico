@@ -1,3 +1,9 @@
+---
+tags: [MOC, metodologia]
+tipo: MOC
+fecha_actualizacion: 2026-08-12
+---
+
 # 📁 02_Metodologias — Índice de Carpeta
 
 > [!NOTE]

@@ -1,3 +1,9 @@
+---
+tags: [metodologia]
+tipo: metodologia
+fecha_actualizacion: 2026-08-12
+---
+
 # 🌳 Metodología EVAP: Evaluación Ambiental CONESA y Rendimientos CAPECO
 
 > [!NOTE]

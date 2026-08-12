@@ -1,7 +1,26 @@
+# --- Obsidian ---
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
+.obsidian/graph.json
+.trash/
+
+# --- Binarios y exportaciones ---
 Exportaciones/
 *.docx
 *.pdf
 *.xlsx
-.trash/
+*.pptx
+*.dwg
+*.zip
+
+# --- Estado de herramientas (no versionar) ---
+*.pkl
+indexer_state.pkl
+__pycache__/
+*.pyc
+
+# --- Archivos temporales de Office / sistema ---
+~$*
+._*
+Thumbs.db
+desktop.ini

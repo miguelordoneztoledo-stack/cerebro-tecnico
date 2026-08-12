@@ -1,3 +1,9 @@
+---
+tags: [metodologia]
+tipo: metodologia
+fecha_actualizacion: 2026-08-12
+---
+
 # 👷 Metodología [[Seguridad_y_Salud_SST|SST]]: Norma Técnica G.050 y D.S. 005-2012-TR
 
 > [!NOTE]

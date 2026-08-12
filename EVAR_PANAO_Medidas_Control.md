@@ -1,3 +1,9 @@
+---
+tags: [nota]
+tipo: nota
+fecha_actualizacion: 2026-08-12
+---
+
 # Medidas de Control - EVAR ESTADIO DE PANAO
 
 Se determina las medidas de control que contribuirá a reducir o mitigar el riesgo existente, mediante la ejecución de medidas de control, se ejecutará y planificará todas aquellas medidas de control a ser adoptadas.

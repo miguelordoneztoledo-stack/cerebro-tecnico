@@ -1,3 +1,9 @@
+---
+tags: [agente, sistema]
+tipo: agente
+fecha_actualizacion: 2026-08-12
+---
+
 # 🤖 Agente Coordinador (Antigravity)
 
 > [!NOTE]

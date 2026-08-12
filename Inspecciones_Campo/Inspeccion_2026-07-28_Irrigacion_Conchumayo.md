@@ -1,24 +1,39 @@
 ---
 alias: [Inspección Conchumayo 2026-07-28, Auditoría SST-MA-EVAR]
-tags: [inspección/campo, obra/irrigación, sst/g050, ambiental/pma, evar/cenepred]
+tags: [inspección/campo, obra/irrigación, sst/g050, ambiental/pma, evar/cenepred, borrador]
 fecha: 2026-07-28
 proyecto: Irrigación Conchumayo - GORE Huánuco
 total_fotos: 95
-estado: REVISADO
+estado: BORRADOR-NO-EMITIBLE
+revision: 2026-08-12
 ---
 
+> [!DANGER] NO EMITIR — documento no defendible en su estado actual
+> Auditado el **2026-08-12**. De las 708 líneas del archivo solo 319 son únicas: **los 95 registros fotográficos repiten literalmente el mismo diagnóstico** de SST, ambiental y EVAR, variando únicamente nombre de archivo, fecha EXIF y coordenada GPS.
+>
+> Esto significa que **ninguna fotografía fue analizada individualmente**. Presentar este documento al GORE Huánuco como auditoría de campo expone a observación por informe no sustentado.
+>
+> **Para volverlo emitible:** describir en cada hallazgo lo efectivamente observado en esa imagen, con norma incumplida, nivel de severidad, acción correctiva y plazo. Ver [[Plantilla_Inspeccion_Campo]].
+>
+> Lo que sí es válido y reutilizable: el inventario de 95 evidencias con sus rutas, fechas EXIF y coordenadas GPS.
+
 # 📸 INSPECCIÓN DE CAMPO Y AUDITORÍA MULTIDISCIPLINARIA
-**Proyecto:** [[Irrigación Conchumayo - GORE]]
+**Proyecto:** [[MOC_Conchumayo_GORE]]
 **Fecha:** `2026-07-28` | **Ubicación:** Valle Conchumayo (UTM Zona 18S)
-**Supervisores:** [[Equipo Técnico de Supervisión]]
+**Supervisores:** _(pendiente de consignar nombres y colegiatura)_
 
 ---
 
 ## 📊 RESUMEN DE HALLAZGOS Y COMPLIANCE
-- **Fotos Analizadas:** `95 evidencias`
-- **Normativa SST:** Infracciones a [[Ley 29783]], [[D.S. 011-2019-TR]] y [[Norma G.050]].
-- **Gestión Ambiental:** Incumplimientos a [[R.M. 00143-2025-MINAM]], [[D.L. 1278]] y [[NTP 900.058:2019]].
-- **Evaluación de Riesgos:** Riesgo Alto a Muy Alto en taludes según [[CENEPRED AHP Saaty]].
+
+> [!WARNING] Presunciones no verificadas
+> Los incumplimientos listados abajo se generaron de forma global, no por evidencia. Requieren verificación uno a uno antes de sostenerse.
+
+- **Evidencias registradas:** `95 fotografías` (inventario válido)
+- **Normativa SST presuntamente afectada:** [[Ley 29783]], [[D.S. 011-2019-TR]], [[Norma G.050]].
+- **Normativa ambiental presuntamente afectada:** [[D.L. 1278]] (residuos) y [[NTP 900.058-2019]] (código de colores).
+  - ⚠️ Corrección de cita: la [[R.M. 00143-2025-MINAM]] figuraba aquí como norma de residuos. Es la **Guía de Línea Base del SEIA**; no aplica a disposición de material excedente.
+- **Evaluación de riesgos:** clasificación de taludes **pendiente de sustento**. La metodología aplicable es [[Metodologia_EVAR_CENEPRED]] con ponderación [[AHP_Saaty_EVAR_EVAR-IIEE-IPARIA|AHP de Saaty]].
 
 ---
 

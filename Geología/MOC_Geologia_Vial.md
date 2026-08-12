@@ -1,3 +1,9 @@
+---
+tags: [MOC, geologia]
+tipo: MOC
+fecha_actualizacion: 2026-08-12
+---
+
 # 🪨 MOC: Geología Vial
 
 > [!NOTE]

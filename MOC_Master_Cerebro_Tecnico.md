@@ -60,13 +60,16 @@ Bienvenidos a la nota central de control de tu **Cerebro Digital Acumulativo**, 
 
 ## 🤖 6. Infraestructura de Skills (`C:\IA_Proyectos\skills`)
 
-> [!WARNING]
-> Esta sección listaba antes 10 "skills/auditores" (auditor-riesgos, auditor-ambiental, auditor-sst, auditor-gore-osce, auditor-investigacion, analizador-fotografico-tecnico, open-weights-kimi-engine, meta-reasoning-cross-harness, memoria-acumulativa-proyectos, agente-remoto-247-tmux) que **no existen** en `C:\IA_Proyectos\skills\` ni en el índice real [[MOC_Skills_Sistema]] (40 skills verificadas). Se retiraron el 2026-07-29 por ser contenido fabricado. Ver [[MOC_Skills_Sistema]] para el catálogo completo y real.
+> [!NOTE] Advertencia del 2026-07-29 levantada el 2026-08-12
+> El 2026-07-29 se retiraron de esta sección 10 auditores por no existir en disco. **Verificado el 2026-08-12: los 10 existen y tienen `SKILL.md`** (auditor-riesgos, auditor-ambiental, auditor-sst, auditor-gore-osce, auditor-investigacion, analizador-fotografico-tecnico, open-weights-kimi-engine, meta-reasoning-cross-harness, memoria-acumulativa-proyectos, agente-remoto-247-tmux). El total real en `C:\IA_Proyectos\skills\` es de **70 skills**, no 40. Ver [[MOC_Skills_Sistema]] — ese índice también necesita actualización.
 
 | Skill | Función Principal | Modo de Operación |
 | :--- | :--- | :--- |
 | [[orquestador-expedientes]] | Ingeniero Director & Ruteador Paralelo de un expediente completo | Orquestación |
 | [[notebooklm_vault_bridge]] | Empaquetador Automático para NotebookLM | Sincronización Nube |
+| [[zotero_reference_manager]] | Citas APA 7 / ISO 690 / MTC desde biblioteca Zotero | Investigación |
+| [[asistente-tesis-spss]] | Resultados y discusión de tesis con SPSS + APA 7 | Investigación |
+| [[docx_coautor]] | Generación de DOCX con perfil normativo automático | Redacción |
 
 ---
 
@@ -79,10 +82,38 @@ Bienvenidos a la nota central de control de tu **Cerebro Digital Acumulativo**, 
 [[01_Proyectos]] | [[02_Metodologias]] | [[03.Agentes]]
 
 ## 🚀 INSPECCIONES Y SUPERVISIÓN EN TIEMPO REAL
-- [[Dashboard_Supervision_Maestro]]
+- [[Dashboard_Supervision_Maestro]] | [[Dashboard_Oficina]]
 - [[Inspeccion_Elite_5Pilares_2026-07-28]]
-- [[Inspeccion_2026-07-28_Irrigacion_Conchumayo]]
+- [[Inspeccion_2026-07-28_Irrigacion_Conchumayo]] ⚠️ **BORRADOR — no emitible**, ver aviso en la nota
 - [[MOC_Conchumayo_GORE]]
-- [[Metodologia_SST_G050]]
-- [[Metodologia_EVAR_CENEPRED]]
-- [[Metodologia_EVAP_CONESA]]
+- [[Metodologia_SST_G050]] | [[Metodologia_EVAR_CENEPRED]] | [[Metodologia_EVAP_CONESA]]
+- [[Plantilla_Inspeccion_Campo]] — formato correcto para inspecciones nuevas
+
+---
+
+## 📖 8. Base Conceptual y Normativa
+
+### Conceptos técnicos
+| Ámbito | Notas |
+| :--- | :--- |
+| SST | [[Equipos de Protección Individual]] · [[Protección Colectiva en Zanjas]] |
+| Ambiental | [[Material Excedente]] · [[Cauces Naturales]] |
+| EVAR | [[Movimiento en Masa]] · [[Desprendimiento de Rocas]] |
+
+### Normativa vigente
+[[Ley 29783]] · [[Norma G.050]] · [[D.S. 011-2019-TR]] · [[D.L. 1278]] · [[NTP 900.058-2019]] · [[R.M. 00143-2025-MINAM]]
+
+### Plantillas
+[[Plantilla_Nota_Proyecto]] · [[Plantilla_Inspeccion_Campo]]
+
+---
+
+## 🗄️ 9. Archivo y Mantenimiento de la Bóveda
+- [[Archivo_Externo_Videotutoriales]] — corpus de 8,221 notas retirado el 2026-08-12 y su procedimiento de reingreso.
+- [[Proyectos_Pasados]] — índice de proyectos cerrados.
+- [[Investigacion_Papers]] — literatura científica y fuentes externas.
+
+## 📌 10. Notas sueltas por integrar
+- [[EVAR_PANAO_Medidas_Control]] · [[ANALISIS_GENESIS_GEOMORFOLOGICA]] · [[DESCRIPTORES_CALICATAS]]
+- [[Partida_26_Revegetacion]] · [[Partida_27_Desmovilizacion]]
+- [[Directriz_Tribunal_Adversarial]]

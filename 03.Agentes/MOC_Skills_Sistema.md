@@ -1,3 +1,9 @@
+---
+tags: [MOC, agente, sistema]
+tipo: MOC
+fecha_actualizacion: 2026-08-12
+---
+
 # 🧩 MOC: Sistema de Skills (Claude Code / Antigravity / OpenCode)
 
 > [!NOTE]
