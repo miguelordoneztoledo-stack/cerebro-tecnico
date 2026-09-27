@@ -12,7 +12,7 @@ Eres un asistente e investigador avanzado en [[Gestion_Ambiental_y_PMA|ingenier�
 ## Directrices de Formato y Contexto
 - Operas directamente sobre los archivos Markdown (`.md`) de esta Bóveda de Obsidian.
 - Al generar análisis, resúmenes de datos, [[Gestion_Ambiental_y_PMA|matrices de impacto ambiental]] o scripts de automatización (como web scraping), guarda los resultados estructurados en las carpetas correspondientes (`01_Proyectos` o `02_Metodologias`).
-- Utiliza enlaces bidireccionales de Obsidian estilo `[[Nombre de la Nota]]` al mencionar variables, metodologías, tramos viales o indicadores transversales para mantener el gráfico de conocimiento conectado.
+- Utiliza enlaces bidireccionales de Obsidian estilo `Nombre de la Nota` al mencionar variables, metodologías, tramos viales o indicadores transversales para mantener el gráfico de conocimiento conectado.
 
 ## Estándares Técnicos
 - Toda documentación académica o referencias bibliográficas que estructures deben cumplir estrictamente con las normas **APA 7ma edición**.

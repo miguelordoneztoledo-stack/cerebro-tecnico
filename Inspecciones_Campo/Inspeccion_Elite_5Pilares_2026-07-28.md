@@ -7,8 +7,8 @@ nivel_tecnico: ELITE ENGINEERING
 ---
 
 # 🚀 INFORME DE INGENIERÍA Y SUPERVISIÓN ÉLITE (5 PILARES)
-**Proyecto:** [[Irrigación Conchumayo - GORE]] | **Fecha:** `2026-07-28`
-**Ubicación:** Valle Conchumayo (UTM Zona 18S) | **Bóveda:** [[Cerebro_Tecnico]]
+**Proyecto:** Irrigación Conchumayo - GORE | **Fecha:** `2026-07-28`
+**Ubicación:** Valle Conchumayo (UTM Zona 18S) | **Bóveda:** Cerebro_Tecnico
 
 ---
 
@@ -16,8 +16,8 @@ nivel_tecnico: ELITE ENGINEERING
 - **Área Evaluada por Dron:** `2500.0 m²`
 - **Volumen de Corte Medido:** `4591.84 m³`
 - **Metrado S10 Contractual:** `1500.0 m³`
-- **Dictamen de Volúmenes:** [[SOBRE-CORTE DETECTADO]]
-- **Concepto Relacionado:** [[Cálculo de Volúmenes de Excavación]]
+- **Dictamen de Volúmenes:** SOBRE-CORTE DETECTADO
+- **Concepto Relacionado:** Cálculo de Volúmenes de Excavación
 
 ---
 
@@ -26,13 +26,13 @@ nivel_tecnico: ELITE ENGINEERING
 - **Tirante Normal ($y_n$):** `1.732 m`
 - **Velocidad Media ($v$):** `1.93 m/s`
 - **Número de Froude ($Fr$):** `0.57 (SUBCRÍTICO (Tranquilo))`
-- **Conceptos Relacionados:** [[Fórmulas de Manning]] | [[Riesgo de Inundación y Desborde]]
+- **Conceptos Relacionados:** Fórmulas de Manning | Riesgo de Inundación y Desborde
 
 ---
 
 ## 🗺 PILAR 3: INTEGRACIÓN GIS NATIVA Y CAPAS VECTORIALES
 - **Capas Generadas:** `hallazgos_supervision.geojson` y `hallazgos_supervision.kml`
-- **Compatibilidad:** [[ArcGIS Pro]], [[QGIS]], [[Google Earth Pro]]
+- **Compatibilidad:** ArcGIS Pro, QGIS, Google Earth Pro
 - **Georreferenciación:** WGS84 UTM Zona 18S
 
 ---
@@ -41,21 +41,21 @@ nivel_tecnico: ELITE ENGINEERING
 - **Parámetros Suelo:** Cohesión $c' = 15.0 kPa$, Ángulo $\phi' = 26.0°$
 - **Geometría Talud:** Altura $H = 6.5 m$, Pendiente $\beta = 65.0°$
 - **Factor de Seguridad Calculado:** `$FS = 0.362$`
-- **Dictamen Geotécnico:** [[INESTABLE / RIESGO CRÍTICO (Requiere Obras de Contención)]]
-- **Conceptos Relacionados:** [[Equilibrio Límite de Taludes]] | [[Estabilidad de Cortes en Vía MTC]]
+- **Dictamen Geotécnico:** INESTABLE / RIESGO CRÍTICO (Requiere Obras de Contención)
+- **Conceptos Relacionados:** Equilibrio Límite de Taludes | Estabilidad de Cortes en Vía MTC
 
 ---
 
 ## 🎙 PILAR 5: DICTADO Y NOTAS DE VOZ EN CAMPO
 - **Progresiva Detectada:** `progresiva 1+240`
-- **Categoría Normativa:** [[SST]]
+- **Categoría Normativa:** SST
 - **Transcripción de Campo:** *"Inspección en progresiva 1+240. Se observa talud inestable de 6 metros de altura sin banquetas de desaceleración y personal trabajando abajo sin casco ni chaleco reflexivo. Riesgo crítico de colapso."*
 - **Acción Correctiva:** `Paralización preventiva del frente hasta subsanación`
 
 ---
 
 ## 🔗 CONEXIÓN DE CONOCIMIENTO ACUMULADO
-- [[Ley 29783]] | [[Norma G.050]] | [[R.M. 00143-2025-MINAM]] | [[CENEPRED AHP Saaty]]
+- [[Ley 29783]] | [[Norma G.050]] | [[R.M. 00143-2025-MINAM]] | CENEPRED AHP Saaty
 
 #elite/engineering #5pilares #supervisión/conchumayo
 

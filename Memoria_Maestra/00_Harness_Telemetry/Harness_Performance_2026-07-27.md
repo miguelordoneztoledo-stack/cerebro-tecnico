@@ -78,7 +78,7 @@ fecha_diagnostico: 2026-07-27 18:15:23
 ## 3. Recomendación de Ajuste Autónomo
 - Mantener la ejecución del script `harvest_memory.py` tras finalizar cada expediente técnico (EVAR, EIA, SST, Tesis).
 
-[[Memoria_Maestra]] | [[Telemetria]] | [[MetaHarness]]
+[[Memoria_Maestra]] | Telemetria | MetaHarness
 
 - [[Gestion_de_Riesgos_EVAR]] (Referencia temática: evar)
 - [[Gestion_Ambiental_y_PMA]] (Referencia temática: eia)

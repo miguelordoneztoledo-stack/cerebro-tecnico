@@ -26,13 +26,13 @@ views:
         - note.categoria == "proyecto"
     order:
       - file.name
-      - note.estado
-      - note.entidad
-      - note.cui
-      - note.ubicacion
-      - note.fecha_actualizacion
+      - estado
+      - entidad
+      - cui
+      - ubicacion
+      - fecha_actualizacion
     sort:
-      - property: note.estado
+      - property: estado
         direction: ASC
   - type: table
     name: Pendientes
@@ -44,9 +44,9 @@ views:
         - note.estado == "observado"
     order:
       - file.name
-      - note.estado
-      - note.entidad
-      - note.fecha_actualizacion
+      - estado
+      - entidad
+      - fecha_actualizacion
   - type: table
     name: Datos incompletos
     filters:
@@ -58,9 +58,9 @@ views:
             - note.entidad.isEmpty()
     order:
       - file.name
-      - note.estado
-      - note.entidad
-      - note.cui
+      - estado
+      - entidad
+      - cui
   - type: table
     name: Normativa
     filters:
@@ -68,9 +68,9 @@ views:
         - note.tipo == "norma"
     order:
       - file.name
-      - note.numero
-      - note.rango
-      - note.estado
+      - numero
+      - rango
+      - estado
   - type: table
     name: Conceptos
     filters:
@@ -78,13 +78,13 @@ views:
         - note.tipo == "concepto"
     order:
       - file.name
-      - note.normativa
+      - normativa
   - type: table
     name: Todo el vault
     order:
       - file.name
-      - note.tipo
-      - note.estado
+      - tipo
+      - estado
       - file.mtime
     sort:
       - property: file.mtime

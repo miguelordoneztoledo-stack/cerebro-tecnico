@@ -106,7 +106,7 @@ Normativa referida: [[Ley 29783]], [[D.S. 011-2019-TR]], [[Norma G.050]], [[D.L.
 
 ## 🔗 Notas relacionadas
 
-- [[perfil_usuario]] — perfil general del usuario (este proyecto es de riego/GORE, no vial/FITSA como HU-112)
+- perfil_usuario — perfil general del usuario (este proyecto es de riego/GORE, no vial/FITSA como HU-112)
 - [[fitsa_hu112_datos_tecnicos]] — proyecto vial de referencia
 - [[Metodologia_EVAR_CENEPRED]] · [[Metodologia_SST_G050]] · [[Metodologia_EVAP_CONESA]]
 - [[Gestion_de_Riesgos_EVAR]] · [[Gestion_Ambiental_y_PMA]] · [[Seguridad_y_Salud_SST]]

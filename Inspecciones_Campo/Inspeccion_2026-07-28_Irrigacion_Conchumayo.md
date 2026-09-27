@@ -706,9 +706,9 @@ revision: 2026-08-12
 
 ---
 ## 💡 LECCIONES APRENDIDAS Y MEMORIA ACUMULATIVA
-- [[Exigencia de Bermas de Seguridad]]: La berma debe tener $H \ge \frac{2}{3} D_{llanta}$ en bordes de corte.
-- [[Entibado Obligatorio]]: Zanjas $>1.50m$ en suelos inestables requieren entibado antes de permitir ingreso de personal.
-- [[DME Autorizado]]: Todo sobrante de excavación debe disponerse obligatoriamente en [[DME Autorizado por PMA]].
+- Exigencia de Bermas de Seguridad: La berma debe tener $H \ge \frac{2}{3} D_{llanta}$ en bordes de corte.
+- Entibado Obligatorio: Zanjas $>1.50m$ en suelos inestables requieren entibado antes de permitir ingreso de personal.
+- DME Autorizado: Todo sobrante de excavación debe disponerse obligatoriamente en DME Autorizado por PMA.
 
 #obra/conchumayo #supervisión/julio2026
 

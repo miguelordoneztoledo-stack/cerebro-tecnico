@@ -32,7 +32,7 @@ Los subagentes pueden leer este MOC cuando tengan dudas sobre diseño de sistema
 ## 🔗 Enlaces Semánticos Relevantes
 - [[Metodologia_Preprocesamiento_NLP]] — Reglas aplicadas de limpieza de datos antes de RAG.
 - [[Dashboard_Autonomo]] — Monitoreo de los agentes.
-- [[MOC_Videotutoriales_Ingenieria]] — Catálogo Maestro de todos los Videotutoriales, Plantillas y Cursos de Ingeniería.
+- MOC_Videotutoriales_Ingenieria — Catálogo Maestro de todos los Videotutoriales, Plantillas y Cursos de Ingeniería.
 
 ---
 > **Nota para el Orquestador:** Cuando un subagente cometa errores recurrentes de alucinación por mal procesamiento de datos, redirígelo a leer el módulo 3 o 4 para que recalibre su método de extracción.

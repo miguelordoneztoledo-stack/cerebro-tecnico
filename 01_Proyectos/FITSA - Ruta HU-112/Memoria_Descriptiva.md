@@ -16,7 +16,7 @@ fecha_actualizacion: 2026-08-12
 
 El tramo vial de la **[[MOC_Ruta_HU_112|Carretera Departamental Ruta HU-112]]** conecta las localidades de **La Esperanza** y **Callagan Manzano** en el departamento de Huánuco. Esta carretera soporta un flujo constante de vehículos agrícolas y de transporte de pasajeros, por lo que su mantenimiento periódico es fundamental para evitar el deterioro de la calzada, la colmatación de cunetas y la pérdida de transitabilidad.
 
-El programa **[[FITSA|FITSA]]** (Fondo de Infraestructura de Transporte y Seguridad Vial) ha priorizado esta intervención debido a la vulnerabilidad climática del tramo, el cual sufre constantes lluvias estacionales que erosionan la plataforma.
+El programa **FITSA** (Fondo de Infraestructura de Transporte y Seguridad Vial) ha priorizado esta intervención debido a la vulnerabilidad climática del tramo, el cual sufre constantes lluvias estacionales que erosionan la plataforma.
 
 ---
 

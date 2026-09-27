@@ -7,7 +7,7 @@ fecha_actualizacion: 2026-08-12
 # ⚠️ [[MOC_Master_Gestion_Riesgos|Gestión de Riesgos de Desastres]] (EVAR) - [[MOC_Ruta_HU_112|Ruta HU-112]]
 
 > [!NOTE]
-> Esta nota analiza los riesgos originados por fenómenos naturales y geológicos a lo largo de la **[[MOC_Ruta_HU_112|Ruta HU-112 ([[MOC_Ruta_HU_112|La Esperanza - Callagan Manzano]])]]**, fundamentada en los lineamientos técnicos de [[Metodologia_EVAR_CENEPRED|CENEPRED]].
+> Esta nota analiza los riesgos originados por fenómenos naturales y geológicos a lo largo de la **MOC_Ruta_HU_112|Ruta HU-112 (MOC_Ruta_HU_112|La Esperanza - Callagan Manzano)]]**, fundamentada en los lineamientos técnicos de [[Metodologia_EVAR_CENEPRED|CENEPRED]].
 > Enlace principal: [[MOC_Ruta_HU_112|Volver al Panel de Control]] | Metodología: [[Metodologia_EVAR_CENEPRED|EVAR (CENEPRED)]] | Especialista: [[Agente_EVAR_Especialista|Especialista en Riesgos]]
 
 ---

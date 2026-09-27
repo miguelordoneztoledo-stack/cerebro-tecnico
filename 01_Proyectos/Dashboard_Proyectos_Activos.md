@@ -18,7 +18,7 @@ aliases:
 ```mermaid
 flowchart LR
     Portafolio[(Portafolio Local)]
-    Portafolio --> P0["📁 [[FITSA|FITSA]]- Ruta HU-112 (La Esperanza - Callagan Manzano)"]
+    Portafolio --> P0["📁 FITSA- Ruta HU-112 (La Esperanza - Callagan Manzano)"]
     P0 --- P0_EVAR([EVAR: 🟢 OK])
     P0 --- P0_AMB([Ambiental: 🔴 PENDIENTE])
     P0 --- P0_PRES([Presupuesto: 🔴 PENDIENTE])

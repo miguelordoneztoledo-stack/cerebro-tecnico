@@ -17,61 +17,61 @@ estatus: APROBADO_NIVEL_MASTER
 - **Lista de SKILLs Operativas:**
   -
   -
-  - [[arcgis-geologia]]
-  - [[architecture-diagram-creator]]
+  - arcgis-geologia
+  - architecture-diagram-creator
   - [[asistente-tesis-spss]]
   -
   -
   -
   -
   -
-  - [[codebase_memory_mcp]]
-  - [[compliance_audit]]
-  - [[context7]]
-  - [[creador-de-skills]]
-  - [[cross-platform-artifacts]]
-  - [[cross-platform-orchestrator]]
-  - [[cross-platform-scheduler]]
-  - [[dashboard-creator]]
+  - codebase_memory_mcp
+  - compliance_audit
+  - context7
+  - creador-de-skills
+  - cross-platform-artifacts
+  - cross-platform-orchestrator
+  - cross-platform-scheduler
+  - dashboard-creator
   - [[docx_coautor]]
-  - [[eia_conesa_mtc]]
-  - [[evap-obras-civiles]]
-  - [[evar-obras-civiles]]
-  - [[excel_sinabrir]]
-  - [[extractor-linea-base-peru]]
-  - [[feature-planning]]
-  - [[firecrawl]]
-  - [[fitsa-obras-civiles]]
-  - [[fitsa_expediente_vial]]
-  - [[flowchart-creator]]
-  - [[generador-matrices-ambientales_fusionada_en_eia_conesa_mtc_2026-07-07]]
-  - [[geospatial]]
-  - [[github_superpowers]]
-  - [[graphify]]
-  - [[hechms-hydrology-bolivia]]
-  - [[hecras-analyst]]
-  - [[hecras-surface-to-model]]
-  - [[image-processing]]
-  - [[investigacion-tecnica-tesis]]
-  - [[laravel-skills]]
-  - [[linea-base-biologica]]
+  - eia_conesa_mtc
+  - evap-obras-civiles
+  - evar-obras-civiles
+  - excel_sinabrir
+  - extractor-linea-base-peru
+  - feature-planning
+  - firecrawl
+  - fitsa-obras-civiles
+  - fitsa_expediente_vial
+  - flowchart-creator
+  - generador-matrices-ambientales_fusionada_en_eia_conesa_mtc_2026-07-07
+  - geospatial
+  - github_superpowers
+  - graphify
+  - hechms-hydrology-bolivia
+  - hecras-analyst
+  - hecras-surface-to-model
+  - image-processing
+  - investigacion-tecnica-tesis
+  - laravel-skills
+  - linea-base-biologica
   -
   -
   - [[notebooklm_vault_bridge]]
-  - [[obsidian-loop-workflow]]
-  - [[obsidian_report_generator]]
-  - [[obsidian_semantic_linker]]
+  - obsidian-loop-workflow
+  - obsidian_report_generator
+  - obsidian_semantic_linker
   -
   - [[orquestador-expedientes]]
-  - [[pdf-to-markdown]]
-  - [[pdfs]]
-  - [[presupuesto-ambiental_fusionada_en_excel_sinabrir_2026-07-07]]
-  - [[project_brain]]
-  - [[revisor-metodologico-riguroso]]
-  - [[sst-obras-civiles]]
-  - [[superpowers]]
-  - [[technical-doc-creator]]
-  - [[timeline-creator]]
+  - pdf-to-markdown
+  - pdfs
+  - presupuesto-ambiental_fusionada_en_excel_sinabrir_2026-07-07
+  - project_brain
+  - revisor-metodologico-riguroso
+  - sst-obras-civiles
+  - superpowers
+  - technical-doc-creator
+  - timeline-creator
   - [[zotero_reference_manager]]
 - **Observaciones de Frontmatter / Código:** 0 inconsistencias detectadas.
 
@@ -79,7 +79,7 @@ estatus: APROBADO_NIVEL_MASTER
 
 ## 🧠 2. Auditoría del Cerebro Digital (`C:\IA_Proyectos\Cerebro_Tecnico`)
 - **Total Notas Registradas:** `41`
-- **Total Enlaces Bidireccionales (`[[WikiLinks]]`):** `1184`
+- **Total Enlaces Bidireccionales (`WikiLinks`):** `1184`
 - **Densidad de Red:** `28.88` enlaces por nota.
 - **Estatus del Grafo:** 100% cohesionado, cero islas huérfanas.
 

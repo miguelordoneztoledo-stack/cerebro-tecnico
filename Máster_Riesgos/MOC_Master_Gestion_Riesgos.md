@@ -21,9 +21,9 @@ graph TD
     A[Gestión de Riesgos Máster] --> B(Riesgos Físicos y Ambientales)
     A --> C(Riesgos Ocupacionales y de Seguridad)
     A --> D(Riesgos Contractuales y Económicos)
-    B --> B1[[[Metodologia_EVAR_CENEPRED|Evaluaciones EVAR - CENEPRED]]]
-    B --> B2[[[Metodologia_EVAP_CONESA|Evaluaciones Ambientales EVAP]]]
-    C --> C1[[[Seguridad_y_Salud_SST|Planes de SST - Ley 29783 / G.050]]]
+    B --> B1Evaluaciones EVAR - CENEPRED]
+    B --> B2Evaluaciones Ambientales EVAP]
+    C --> C1Planes de SST - Ley 29783 / G.050]
     D --> D1[Penalidades y Control de Plazos]
 ```
 

@@ -8,7 +8,7 @@ fecha_actualizacion: 2026-08-12
 
 > [!NOTE]
 > Esta nota técnica actúa como el **Mapa de Contenidos (MOC)** para los análisis geomorfológicos y de relieve aplicados a la evaluación de peligros y vulnerabilidad vial.
-> Enlace de proyecto: [[Gestion_de_Riesgos_[[Metodologia_EVAR_CENEPRED|EVAR]]|Gestión de Riesgos - Ruta HU-112]] | Metodología: [[Metodologia_EVAR_CENEPRED|Lineamientos CENEPRED]]
+> Enlace de proyecto: Gestion_de_Riesgos_Metodologia_EVAR_CENEPRED|EVAR|Gestión de Riesgos - Ruta HU-112]] | Metodología: [[Metodologia_EVAR_CENEPRED|Lineamientos CENEPRED]]
 
 ---
 

@@ -75,7 +75,7 @@ Todo el paquete SST original era una **plantilla de otros proyectos** (I.E.I. 62
 ## 🔗 Notas relacionadas
 
 - Metodología: [[Metodologia_SST_G050]] · [[Seguridad_y_Salud_SST]] (referencia Ley 29783)
-- Estilo de trabajo del usuario en este expediente: [[workflow_fitsa]] (enfoque de orquestación-bucle, skill `orquestador-expedientes` con subagentes concurrentes por componente)
+- Estilo de trabajo del usuario en este expediente: workflow_fitsa (enfoque de orquestación-bucle, skill `orquestador-expedientes` con subagentes concurrentes por componente)
 - **Hub central:** [[MOC_Master_Cerebro_Tecnico]] | [[Dashboard_Autonomo]]
 
 ---

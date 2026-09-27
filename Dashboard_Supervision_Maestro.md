@@ -18,7 +18,7 @@ tags: [dashboard, elite_engineering]
 ---
 
 ## 🌐 RED DE CONOCIMIENTO TÉCNICO INTERCONECTADO
-- **Fotogrametría y Drones:** [[Cálculo de Volúmenes de Excavación]] | [[Modelo Digital DEM]]
-- **Hidráulica y Drenaje:** [[Fórmulas de Manning]] | [[Riesgo de Inundación y Desborde]]
-- **Geotecnia y Taludes:** [[Equilibrio Límite de Taludes]] | [[Estabilidad de Cortes en Vía MTC]]
-- **Leyes y Normas:** [[Ley 29783]] | [[Norma G.050]] | [[R.M. 00143-2025-MINAM]] | [[CENEPRED AHP Saaty]]
+- **Fotogrametría y Drones:** Cálculo de Volúmenes de Excavación | Modelo Digital DEM
+- **Hidráulica y Drenaje:** Fórmulas de Manning | Riesgo de Inundación y Desborde
+- **Geotecnia y Taludes:** Equilibrio Límite de Taludes | Estabilidad de Cortes en Vía MTC
+- **Leyes y Normas:** [[Ley 29783]] | [[Norma G.050]] | [[R.M. 00143-2025-MINAM]] | CENEPRED AHP Saaty

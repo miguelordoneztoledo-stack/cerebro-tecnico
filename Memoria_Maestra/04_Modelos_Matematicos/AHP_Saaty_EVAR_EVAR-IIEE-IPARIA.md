@@ -24,7 +24,7 @@ fecha_cosecha: 2026-07-27
 ## 3. Presupuesto de Mitigación Estructural
 - **Defensas Ribereñas (Gaviones) y Drenaje Pluvial:** Presupuestado e integrado en Soles (S/).
 
-[[Memoria_Maestra]] | [[CENEPRED]] | [[Riesgo_Fluvial]]
+[[Memoria_Maestra]] | CENEPRED | Riesgo_Fluvial
 
 - [[Metodologia_EVAR_CENEPRED]] (Referencia temática: cenepred)
 - [[Gestion_de_Riesgos_EVAR]] (Referencia temática: evar)
