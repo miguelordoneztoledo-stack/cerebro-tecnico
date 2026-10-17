@@ -33,7 +33,7 @@ graph LR
     style Riesgos fill:#d5f5e3,stroke:#239b56
 ```
 
-## 📋 Registro de Tareas del Tribunal Adversarial
+## 📋 Registro de Tareas del [[Directriz_Tribunal_Adversarial|Tribunal Adversarial]]
 - [x] Validación de márgenes y formato en Word (Paso 1)
 - [x] Verificación de rutas absolutas vs relativas en scripts de generación.
-- [ ] Auditoría de precios unitarios vs Base de Datos Histórica.
+- [ ] Auditoría de precios unitarios vs [[Base_Datos_Costos_Historicos|Base de Datos Histórica]].

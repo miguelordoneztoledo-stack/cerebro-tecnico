@@ -21,7 +21,7 @@ Raíz analizada: `C:\Users\DESKTOP\OneDrive\Desktop` · 12 frentes · activo = t
 | Proyecto | Última actividad | Último archivo | Áreas | Archivos |
 |---|---|---|---|---|
 | **CONSULTORA-DOCENCIA UDH** | 2026-09-02 | `Plan de Tesis - Antonio Teodoro Valdivia M` | ambiental, presupuesto, riesgos, sst, tesis | 2211 |
-| **Cerebro_Tecnico** | 2026-08-31 | `Briefing_Portafolio.md` | — | 1 |
+| **[[MOC_Master_Cerebro_Tecnico|Cerebro_Tecnico]]** | 2026-08-31 | `Briefing_Portafolio.md` | — | 1 |
 | **CERTIFICADO DE TRBAJO** | 2026-08-26 | `CONSTANCIAS PERFECTA.pdf` | ambiental | 4 |
 
 ## 💤 En pausa

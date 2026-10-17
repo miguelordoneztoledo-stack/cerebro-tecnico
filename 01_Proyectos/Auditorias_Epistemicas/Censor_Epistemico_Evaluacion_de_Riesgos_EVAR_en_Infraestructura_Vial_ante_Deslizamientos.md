@@ -6,7 +6,7 @@ estatus: AUDITORIA_SOCRATICA_COMPLETADA
 
 # 🏛️ Auditoría Socrática de Consistencia Interna — Censor Epistémico
 
-**Tema / Manuscrito Auditado:** `Evaluacion de Riesgos EVAR en Infraestructura Vial ante Deslizamientos`
+**Tema / Manuscrito Auditado:** `Evaluacion de Riesgos [[Gestion_de_Riesgos_EVAR|EVAR]] en Infraestructura Vial ante Deslizamientos`
 **Fecha de Ejecución:** `2026-07-28 07:09:51`
 **Rol:** Censor Epistémico & Abogado del Diablo Académico
 
@@ -30,7 +30,7 @@ estatus: AUDITORIA_SOCRATICA_COMPLETADA
 - **Riesgo:** Si el jurado detecta sesgo de selección, invalidará la generalización de conclusiones.
 
 ### ❓ Pregunta Socrática 2: ¿Cómo demuestra que no existe una variable de confusión externa?
-- **Auditoría:** Verificar que se hayan controlado variables intervinientes (ej. factores climáticos en EVAR o experiencia laboral en SST).
+- **Auditoría:** Verificar que se hayan controlado variables intervinientes (ej. factores climáticos en EVAR o experiencia laboral en [[Seguridad_y_Salud_SST|SST]]).
 
 ### ❓ Pregunta Socrática 3: ¿La prueba estadística elegida responde a la escala de medición?
 - **Auditoría:** Si las variables son ordinales (Escala Likert), DEBE usarse la prueba no paramétrica **Rho de Spearman** o **Tau-b de Kendall**, NUNCA Pearson.

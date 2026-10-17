@@ -14,7 +14,7 @@ fecha_actualizacion: 2026-07-28
 # 🧠 MOC Master - Cerebro Técnico Digital (Unificado)
 
 > [!TIP] Panel de control
-> **Panel_Proyectos** — tabla viva de proyectos, pendientes y datos faltantes, construida con **Bases** (núcleo de Obsidian, sin plugins). Se actualiza sola al editar el frontmatter de cada nota.
+> **Panel_Proyectos** — tabla viva de proyectos, pendientes y datos faltantes, construida con **[[Base_Datos_Costos_Historicos|Bases]]** (núcleo de Obsidian, sin plugins). Se actualiza sola al editar el frontmatter de cada nota.
 > Vistas: `Proyectos` · `Pendientes` · `Datos incompletos` · `Normativa` · `Conceptos` · `Todo el vault`.
 
 Bienvenidos a la nota central de control de tu **Cerebro Digital Acumulativo**, sincronizado para **Google Antigravity 2.0**, **Claude Code IA**, **OpenCode AI** y **Google NotebookLM**.
@@ -46,7 +46,7 @@ Bienvenidos a la nota central de control de tu **Cerebro Digital Acumulativo**, 
 ## 📚 4. Memoria Maestra & Sincronización Nube
 - [[Memoria_Maestra]] — Bóveda central de almacenamiento cross-platform.
 - [[Sincronizacion_NotebookLM_Master_2026-07-27]] — Registro oficial de sincronización con los 10 Cuadernos de Google NotebookLM.
-- [[AHP_Saaty_EVAR_EVAR-IIEE-IPARIA]] — Modelo AHP de Saaty (Rupturas de Jenks) validado para inundación fluvial.
+- [[AHP_Saaty_EVAR_EVAR-IIEE-IPARIA]] — Modelo [[AHP_Saaty_EVAR_EVAR-IIEE-IPARIA|AHP de Saaty]] (Rupturas de Jenks) validado para inundación fluvial.
 - [[Absolucion_EVAR_EVAR-IIEE-IPARIA]] — Pliego de absolución formal a observaciones del GORE Ucayali.
 
 ---
