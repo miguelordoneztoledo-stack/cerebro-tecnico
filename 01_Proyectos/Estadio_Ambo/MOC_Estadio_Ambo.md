@@ -101,7 +101,7 @@ Establece las directrices y normas obligatorias de seguridad y salud en la obra 
 - **Proyectos Históricos:** [[MOC_Ruta_HU_112]] | [[MOC_Estadio_Ambo]] | [[MOC_Conchumayo_GORE]] | [[MOC_EIA_Estadio_Panao]]
 - **Investigación y UDH:** [[MOC_UDH_Academico]] | [[MOC_Tesis_Luz]] | [[Investigacion_Papers]]
 - **Metodologías Unificadas:** [[Metodologia_EVAR_CENEPRED]] | [[Metodologia_EVAP_CONESA]] | [[Metodologia_SST_G050]]
-- **Auditores y Agentes:** (ninguno registrado — ver MOC_Skills_Sistema)
+- **Auditores y Agentes:** (ninguno registrado — ver [[MOC_Skills_Sistema|MOC_Skills_Sistema]])
 - [[Gestion_de_Riesgos_EVAR]] (Referencia temática: evar)
 
 ---

@@ -401,7 +401,7 @@ Es por eso por lo que juicio, conocido como el proceso de determinar la recompen
 
 Por ejemplo, en el mundo de la arquitectura y creación de proyectos de construcción, la IA se puede usar para predecir el riesgo de sobrecostes del proyecto, el riesgo de accidentes en el sitio y la necesidad de mantenimiento a lo largo del tiempo. La IA es un término ampliamente utilizado y vagamente definido que describe cuándo las máquinas pueden realizar acciones que normalmente requieren inteligencia humana. Estas predicciones suelen fundamentarse en el [[MIA_A2_Mod4_Machine Learning y Deep Learning|aprendizaje automático]] - un tipo particular de inteligencia artificial, que describe cuándo la máquina puede aprender de la experiencia (por ejemplo, datos históricos o mediante pruebas) sin ser programada explícitamente. 
 
-Como ya se ha estudiado en módulos anteriores, el [[MIA_A2_Mod4_Machine Learning y Deep Learning|aprendizaje profundo (Deep Learning – DL en adelante)]] es un tipo particular de aprendizaje automático inspirado en la forma en que funciona nuestro cerebro y se basa en el concepto de redes neuronales artificiales. El DL depende en gran medida de una gran cantidad de datos y una gran potencia informática. La IA y los algoritmos de DL. Volviendo al ejemplo del mundo de la construcción, la IA en formato DL podría generar un análisis predictivo de la información como: 
+Como ya se ha estudiado en módulos anteriores, el [[MIA_A2_Mod4_Machine Learning y Deep Learning|aprendizaje profundo ([[MIA_A2_Mod4_Machine Learning y Deep Learning|Deep Learning – DL en adelante]])]] es un tipo particular de aprendizaje automático inspirado en la forma en que funciona nuestro cerebro y se basa en el concepto de redes neuronales artificiales. El DL depende en gran medida de una gran cantidad de datos y una gran potencia informática. La IA y los algoritmos de DL. Volviendo al ejemplo del mundo de la construcción, la IA en formato DL podría generar un análisis predictivo de la información como: 
 
 - Predecir sobrecostes en función de la experiencia de proyectos anteriores y factores como el tamaño del proyecto, el tipo de contrato y el nivel de competencia de los gerentes de proyecto. 
 
@@ -521,7 +521,7 @@ El caso presentado anteriormente presenta un flujo de trato de la información s
 
 Ilustración 8.https://developer.ibm.com/ 
 
-Aprovechar el análisis realizado por la IA en formato DL o ML para predecir resultados y optimizar las operaciones se está convirtiendo en un uso genérico en muchas compañías. Existen herramientas de acceso gratuito que permiten comprender el proceso completo que hay detrás de la puesta en producción de modelos capaces de aportar valor empresarial a compañías como la anteriormente estudiada. 
+Aprovechar el análisis realizado por la IA en formato DL o [[MIA_A2_Mod4_Machine Learning y Deep Learning|ML]] para predecir resultados y optimizar las operaciones se está convirtiendo en un uso genérico en muchas compañías. Existen herramientas de acceso gratuito que permiten comprender el proceso completo que hay detrás de la puesta en producción de modelos capaces de aportar valor empresarial a compañías como la anteriormente estudiada. 
 
 1. Acceda al enlace: <u>https://n9.cl/mia9_watsonstudio</u> 
 

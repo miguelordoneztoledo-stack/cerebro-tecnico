@@ -84,7 +84,7 @@ C:\Users\DESKTOP\OneDrive\DOCUMENTOS-MIGUEL\FITSA-MANTEN- PERIODICO\FITSA- Ruta 
 | :--- | :--- |
 | Presupuesto ambiental — partidas y montos | ✅ vaciado 23/08 (tabla completa arriba) |
 | Metas físicas del tramo | ✅ parcial (L=51.987 km; metrados por partida en tabla) |
-| Cronograma de monitoreo | ⬜ pendiente (buscar en Gestion_Ambiental_y_PMA.md) |
+| Cronograma de monitoreo | ⬜ pendiente (buscar en [[Gestion_Ambiental_y_PMA|Gestion_Ambiental_y_PMA.md]]) |
 | Áreas auxiliares — coordenadas UTM (EPSG:32718) | ⬜ pendiente |
 | Lista de entregables | ⬜ pendiente |
 

@@ -11,7 +11,7 @@ aliases:
 # 💰 Base de Datos Histórica de Costos (Presupuestos S10)
 *Generada: 2026-09-09 09:23:21*
 
-> [!SUCCESS] 1071 partidas reales leídas de 1 Presupuesto(s) S10 encontrado(s). El rendimiento de mano de obra/materiales/equipo **no está incluido**: vive en las hojas de Análisis de Costos Unitarios (ACU), que este lector todavía no abre (ver TODO_ACU en `extractor_s10_capeco.py`).
+> [!SUCCESS] 1071 partidas reales leídas de 1 Presupuesto(s) S10 encontrado(s). El rendimiento de mano de obra/materiales/equipo **no está incluido**: vive en las hojas de Análisis de Costos Unitarios (ACU), que este lector todavía no abre (ver TODO_ACU en `[[SKILL_docling|extractor_s10_capeco.py]]`).
 
 ## 📊 Partidas
 

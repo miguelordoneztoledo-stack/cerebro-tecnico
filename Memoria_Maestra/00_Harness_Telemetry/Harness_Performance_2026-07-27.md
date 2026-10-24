@@ -16,7 +16,7 @@ fecha_diagnostico: 2026-07-27 18:15:23
 | `analizador-fotografico-tecnico` | SALUDABLE | Integrado a Obsidian & Word |
 | `arcgis-geologia` | SALUDABLE | Integrado a Obsidian & Word |
 | `architecture-diagram-creator` | SALUDABLE | Integrado a Obsidian & Word |
-| `asistente-tesis-spss` | SALUDABLE | Integrado a Obsidian & Word |
+| `[[asistente-tesis-spss|asistente-tesis-spss]]` | SALUDABLE | Integrado a Obsidian & Word |
 | `auditor-ambiental` | SALUDABLE | Integrado a Obsidian & Word |
 | `auditor-gore-osce` | SALUDABLE | Integrado a Obsidian & Word |
 | `auditor-investigacion` | SALUDABLE | Integrado a Obsidian & Word |
@@ -30,7 +30,7 @@ fecha_diagnostico: 2026-07-27 18:15:23
 | `cross-platform-orchestrator` | SALUDABLE | Integrado a Obsidian & Word |
 | `cross-platform-scheduler` | SALUDABLE | Integrado a Obsidian & Word |
 | `dashboard-creator` | SALUDABLE | Integrado a Obsidian & Word |
-| `docx_coautor` | SALUDABLE | Integrado a Obsidian & Word |
+| `[[docx_coautor|docx_coautor]]` | SALUDABLE | Integrado a Obsidian & Word |
 | `eia_conesa_mtc` | SALUDABLE | Integrado a Obsidian & Word |
 | `evap-obras-civiles` | SALUDABLE | Integrado a Obsidian & Word |
 | `evar-obras-civiles` | SALUDABLE | Integrado a Obsidian & Word |
@@ -53,12 +53,12 @@ fecha_diagnostico: 2026-07-27 18:15:23
 | `linea-base-biologica` | SALUDABLE | Integrado a Obsidian & Word |
 | `memoria-acumulativa-proyectos` | SALUDABLE | Integrado a Obsidian & Word |
 | `meta-reasoning-cross-harness` | SALUDABLE | Integrado a Obsidian & Word |
-| `notebooklm_vault_bridge` | SALUDABLE | Integrado a Obsidian & Word |
+| `[[notebooklm_vault_bridge|notebooklm_vault_bridge]]` | SALUDABLE | Integrado a Obsidian & Word |
 | `obsidian-loop-workflow` | SALUDABLE | Integrado a Obsidian & Word |
 | `obsidian_report_generator` | SALUDABLE | Integrado a Obsidian & Word |
 | `obsidian_semantic_linker` | SALUDABLE | Integrado a Obsidian & Word |
 | `open-weights-kimi-engine` | SALUDABLE | Integrado a Obsidian & Word |
-| `orquestador-expedientes` | SALUDABLE | Integrado a Obsidian & Word |
+| `[[orquestador-expedientes|orquestador-expedientes]]` | SALUDABLE | Integrado a Obsidian & Word |
 | `pdf-to-markdown` | SALUDABLE | Integrado a Obsidian & Word |
 | `pdfs` | SALUDABLE | Integrado a Obsidian & Word |
 | `project_brain` | SALUDABLE | Integrado a Obsidian & Word |
@@ -68,7 +68,7 @@ fecha_diagnostico: 2026-07-27 18:15:23
 | `technical-doc-creator` | SALUDABLE | Integrado a Obsidian & Word |
 | `timeline-creator` | SALUDABLE | Integrado a Obsidian & Word |
 | `versions` | FALTA_SKILL_MD | Integrado a Obsidian & Word |
-| `zotero_reference_manager` | SALUDABLE | Integrado a Obsidian & Word |
+| `[[zotero_reference_manager|zotero_reference_manager]]` | SALUDABLE | Integrado a Obsidian & Word |
 
 ## 2. Optimizaciones de Arnés Aplicadas (Auto-Tuning)
 - **Codificación Unicode en Consola Windows:** Se forzó el uso de `[OK]` en lugar de emojis Unicode no soportados por CP1252 para evitar fallas en ejecuciones desatendidas.
@@ -88,4 +88,4 @@ fecha_diagnostico: 2026-07-27 18:15:23
 ## 🌐 Red de Conexiones Semánticas (Cerebro Digital)
 - **Hub Central:** [[MOC_Master_Cerebro_Tecnico]] | [[Memoria_Maestra]]
 - **Disciplinas:** [[01_Proyectos]] | [[02_Metodologias]] | [[03.Agentes]]
-- **Auditores Especializados:** (ninguno registrado — ver MOC_Skills_Sistema)
+- **Auditores Especializados:** (ninguno registrado — ver [[MOC_Skills_Sistema|MOC_Skills_Sistema]])

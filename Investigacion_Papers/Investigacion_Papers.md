@@ -12,8 +12,8 @@ Nodo índice de literatura científica utilizada en tesis, revisiones sistemáti
 | Fuente | Ubicación | Contenido |
 | :--- | :--- | :--- |
 | Biblioteca de metodología | `G:\DOCUMENTOS MIGUEL\Investigacion\` | Corpus de PDFs de metodología de investigación |
-| Gestor de referencias | Skill `zotero_reference_manager` | Citación y bibliografía |
-| Cuadernos NotebookLM | Skill `notebooklm_vault_bridge` | Síntesis y consulta conversacional |
+| Gestor de referencias | Skill `[[zotero_reference_manager|zotero_reference_manager]]` | Citación y bibliografía |
+| Cuadernos NotebookLM | Skill `[[notebooklm_vault_bridge|notebooklm_vault_bridge]]` | Síntesis y consulta conversacional |
 
 ## Revisiones sistemáticas
 - [[PRISMA_2020_Evaluacion_de_Riesgos_por_Inundacion_Fluvial_en_Infraestructura_Vial_Peruana]]

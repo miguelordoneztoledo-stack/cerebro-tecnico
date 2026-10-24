@@ -4,7 +4,7 @@ fecha: 2026-07-28
 estatus: OBSERVADO_CON_PLIEGO_SUBSANATORIO
 autor_tesis: [[Dictamen_Waldir_Hector_Ildefonso_Alberto|Waldir Hector Ildefonso Alberto]]
 asesor_tesis: Mg. Simeon Edmundo Calixto Vargas
-universidad: Universidad de Huánuco (UDH)
+universidad: [[MOC_UDH_Academico|Universidad de Huánuco (UDH)]]
 ---
 
 # 🏛️ Dictamen Técnico de Auditoría Epistémica y Socrática Exhaustiva N° 002-2026-UDH/IA (Capítulo por Capítulo y Global)

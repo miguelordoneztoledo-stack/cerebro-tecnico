@@ -1,7 +1,7 @@
 ---
 tags:
   - Memoria/EVAR
-  - CENEPRED
+  - [[Metodologia_EVAR_CENEPRED|CENEPRED]]
   - AHP_Saaty
   - EVAR-IIEE-IPARIA
 fecha_cosecha: 2026-07-27

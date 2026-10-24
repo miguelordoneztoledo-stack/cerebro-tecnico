@@ -24,7 +24,7 @@ C:\IA_Proyectos\Archivo_Videotutoriales_MD\
 
 ## Por qué se archivó y no se borró
 
-Nada fue eliminado. Las 843 notas de `_CONTENIDO_REAL\` conservan valor: son extracciones de PDFs técnicos (normativa MTC, hidráulica, sismorresistencia, EVAR). El criterio es **reingresar solo lo que se use**, con nombre propio y tags, no reimportar el bloque completo.
+Nada fue eliminado. Las 843 notas de `_CONTENIDO_REAL\` conservan valor: son extracciones de PDFs técnicos (normativa MTC, hidráulica, sismorresistencia, [[Gestion_de_Riesgos_EVAR|EVAR]]). El criterio es **reingresar solo lo que se use**, con nombre propio y tags, no reimportar el bloque completo.
 
 ## 📇 Índice temático del corpus
 
@@ -48,7 +48,7 @@ C:\IA_Proyectos\Archivo_Videotutoriales_MD\INDICE_TEMATICO.md
 | Vial / MTC | 17 |
 | Geotecnia / Suelos | 14 |
 
-De ellas, **77 son normas, manuales o guías oficiales** identificadas (Ley 29664, DS 048-2011-PCM, PLANAGERD, ABC del SENACE, ISO 45001, manuales MTC, parámetros ANA, errores frecuentes en expedientes OSCE, entre otras).
+De ellas, **77 son normas, manuales o guías oficiales** identificadas ([[Base_Legal_IIEE-IPARIA-UCAYALI|Ley 29664]], DS 048-2011-PCM, PLANAGERD, ABC del SENACE, ISO 45001, manuales MTC, parámetros ANA, errores frecuentes en expedientes OSCE, entre otras).
 
 El hallazgo de mayor valor es la **Enciclopedia de Salud y Seguridad en el Trabajo de la OIT** — 94 capítulos completos que estaban dispersos con nombres numéricos ilegibles (`33.md`, `48.md`…) y ahora están identificados por tema.
 

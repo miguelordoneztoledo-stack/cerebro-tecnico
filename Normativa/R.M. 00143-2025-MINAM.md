@@ -29,7 +29,7 @@ Establece los criterios y el contenido mínimo para caracterizar el área de inf
 > Esta norma regula la **línea base de estudios ambientales**. No es norma de gestión de residuos sólidos ni de disposición de material excedente. Para esos casos citar [[D.L. 1278]] y [[NTP 900.058-2019]].
 
 ## Skills que la aplican
-`eia_conesa_mtc` · `linea-base-biologica` · `compliance_audit` · `docx_coautor`
+`eia_conesa_mtc` · `linea-base-biologica` · `compliance_audit` · `[[docx_coautor|docx_coautor]]`
 
 ## Normas conexas
 [[D.L. 1278]] | [[Metodologia_EVAP_CONESA]] | [[Gestion_Ambiental_y_PMA]]

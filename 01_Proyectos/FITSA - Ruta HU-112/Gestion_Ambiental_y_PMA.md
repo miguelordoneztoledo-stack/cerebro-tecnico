@@ -33,7 +33,7 @@ El costo total del Plan de Manejo Ambiental asciende a **S/. 81,125.58** y está
 | 01.02.02.02 | Monitoreo de Partículas Suspendidas PM10 | punto| 30 | 550.00 | 16,500.00 |
 | 01.02.02.03 | Monitoreo de Ruidos Ocupacionales y Ambientales| punto| 6 | 180.00 | 1,080.00 |
 | **01.04** | **Plan de Mitigación y Prevención** | | | | **20,025.76** |
-| 01.02.03.01 | Acondic. Ambiental de Material Excedente | Glb | 1 | 6,885.76 | 6,885.76 |
+| 01.02.03.01 | Acondic. Ambiental de [[Material Excedente|Material Excedente]] | Glb | 1 | 6,885.76 | 6,885.76 |
 | 01.02.03.02 | Alquiler y Mantenimiento de Baños Portátiles | Mes | 18 | 600.00 | 10,800.00 |
 | 01.02.03.03 | Letreros de Prevención Ambiental (1.20 x 1.00m)| Und | 8 | 90.00 | 720.00 |
 | 01.02.03.04 | Letreros de Prevención Ambiental (0.80 x 0.60m)| Und | 20 | 81.00 | 1,620.00 |

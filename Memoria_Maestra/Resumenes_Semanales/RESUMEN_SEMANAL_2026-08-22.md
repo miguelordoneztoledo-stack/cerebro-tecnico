@@ -23,4 +23,4 @@
 - Archivos eliminados: 0 (0 KB)
 
 ---
-*Vault: Cerebro_Tecnico - Memoria_Maestra/Resumenes_Semanales*
+*Vault: Cerebro_Tecnico - [[Memoria_Maestra|Memoria_Maestra]]/Resumenes_Semanales*

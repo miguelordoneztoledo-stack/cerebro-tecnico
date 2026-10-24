@@ -10,8 +10,8 @@ fecha_actualizacion: 2026-08-12
 “MEJORAMIENTO Y AMPLIACIÓN DEL SERVICIO DE EDUCACIÓN SECUNDARIA EN I.E. MICAELA BASTIDAS DISTRITO DE IPARIA DE LA PROVINCIA DE CORONEL PORTILLO DEL DEPARTAMENTO DE UCAYALI” – CUI N° 2648571
 
 **[[Gestion_de_Riesgos_EVAR|EVALUACIÓN DEL RIESGO (EVAR)]]:** Inundación Fluvial y Erosión Ribereña
-**UBICACIÓN:** Distrito de Iparia, Provincia de Coronel Portillo, Departamento de Ucayali.
-**FUENTES DE INFORMACIÓN:** Sistema Nacional de Información para la Respuesta y Rehabilitación (SINPAD - INDECI), Boletín N° 37 Serie C de INGEMMET, Registro de Emergencias COER Ucayali y Datos de Campo SIGRID.
+**UBICACIÓN:** [[Base_Legal_IIEE-IPARIA-UCAYALI|Distrito de Iparia]], Provincia de Coronel Portillo, Departamento de Ucayali.
+**FUENTES DE INFORMACIÓN:** Sistema Nacional de Información para la Respuesta y Rehabilitación (SINPAD - [[Absolucion_EVAR_EVAR-IIEE-IPARIA|INDECI]]), Boletín N° 37 Serie C de [[Absolucion_EVAR_EVAR-IIEE-IPARIA|INGEMMET]], Registro de Emergencias COER Ucayali y Datos de Campo SIGRID.
 
 ---
 

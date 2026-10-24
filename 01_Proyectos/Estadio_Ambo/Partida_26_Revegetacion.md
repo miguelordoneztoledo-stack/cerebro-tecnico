@@ -6,7 +6,7 @@ fecha_actualizacion: 2026-08-12
 
 # PARTIDA 26: LIMPIEZA FINAL, REVEGETACIÓN Y RESTAURACIÓN DE ÁREAS AUXILIARES
 
-**Proyecto:** Estadio Municipal de Ambo
+**Proyecto:** [[MOC_Estadio_Ambo|Estadio Municipal de Ambo]]
 **Ubicación:** Huancapata, Ambo, Huánuco (2,064 msnm)
 
 ---
@@ -36,7 +36,7 @@ Ejecutar las actividades de limpieza, restauración y revegetación de las área
 |----------|--------|----------|-------------|
 | Retiro de escombros | m³ | Por estimar | Residuos de construcción (concreto, madera, metal) |
 | Retiro de residuos sólidos | GL | Por estimar | Basura generada por personal de obra |
-| Retiro de material sobrante | m³ | Por estimar | Material excedente de excavación |
+| Retiro de material sobrante | m³ | Por estimar | [[Material Excedente|Material excedente]] de excavación |
 | Disposición final | GL | Por estimar | Transporte a botadero autorizado por la municipalidad |
 
 ### 26.3.2 Nivelación y Acondicionamiento del Terreno
@@ -114,5 +114,5 @@ Ejecutar las actividades de limpieza, restauración y revegetación de las área
 ## 26.8 REFERENCIA NORMATIVA
 
 - D.S. 011-2006-MINAM: Estándares de Calidad Ambiental para Suelo
-- R.M. N° 00143-2025-MINAM: Lineamientos para la elaboración del Estudio de Impacto Ambiental
+- [[R.M. 00143-2025-MINAM|R.M. N° 00143-2025-MINAM]]: Lineamientos para la elaboración del Estudio de Impacto Ambiental
 - Guías Metodológicas del SEIA para proyectos de infraestructura deportiva

@@ -16,7 +16,7 @@ estatus: BUSQUEDA_VERIFICADA
 
 | N° | Cita Bibliográfica (APA 7) | DOI Verificado | Tamaño Muestra | Hallazgo Cuantitativo ($p$-valor) |
 |---|---|---|:---:|---|
-| 1 | Abbasloo, A. (2025). Production of activated carbon from eucalyptus bark. *Desalination and Water Treatment*. | `10.1016/j.dwt.2025.103668` | 12 Ensayos | Adsorción de metales al 91.5% ($p < 0.01$) |
+| 1 | Abbasloo, A. (2025). Production of activated carbon from [[Buscador_Papers_Biofiltros_de_eucalipto_y_cuyinaza_para_remocion_de_metales_pesados|eucalyptus bark]]. *Desalination and Water Treatment*. | `10.1016/j.dwt.2025.103668` | 12 Ensayos | Adsorción de metales al 91.5% ($p < 0.01$) |
 | 2 | Ali Muhammed et al. (2024). Eucalyptus bark PRB for copper treatment. *Environmental Technology*. | `10.1080/09593330.2024.22891` | Simulación COMSOL | Remoción de Cu del 94.2% (RMSE < 1%) |
 | 3 | Anastopoulos, I. (2022). Eucalyptus-based materials as adsorbents. *Journal of Env. Chem. Eng.* | `10.1016/j.jece.2022.107812` | Review | Capacidad adsorbente > 900 $m^2/g$ |
 

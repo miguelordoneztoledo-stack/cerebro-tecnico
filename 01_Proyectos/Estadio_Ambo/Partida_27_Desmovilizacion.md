@@ -6,7 +6,7 @@ fecha_actualizacion: 2026-08-12
 
 # PARTIDA 27: DESMOVILIZACIÓN DE EQUIPOS, MAQUINARIA Y ENTREGA DE OBRA
 
-**Proyecto:** Estadio Municipal de Ambo
+**Proyecto:** [[MOC_Estadio_Ambo|Estadio Municipal de Ambo]]
 **Ubicación:** Huancapata, Ambo, Huánuco (2,064 msnm)
 
 ---
@@ -131,6 +131,6 @@ Retirar de manera ordenada y segura toda la maquinaria, equipos, herramientas y 
 ## 27.8 REFERENCIA NORMATIVA
 
 - D.S. 011-2006-MINAM: Estándares de Calidad Ambiental para Suelo
-- D.S. 005-2012-TR: Reglamento de Seguridad y Salud en el Trabajo
+- D.S. 005-2012-TR: Reglamento de [[Ley 29783|Seguridad y Salud en el Trabajo]]
 - RNE/MTC: Norma Técnica de Seguridad para obras de infraestructura
 - Ley N° 29783: Ley de Seguridad y Salud en el Trabajo

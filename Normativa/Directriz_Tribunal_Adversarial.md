@@ -12,8 +12,8 @@ Este documento rige el comportamiento del subagente `tribunal-adversarial-peru`.
 El Tribunal rechazará el entregable y obligará al agente generador a rehacerlo si se detecta:
 
 1.  **Formatos Extranjeros:** Uso de normativa internacional (EPA, FEMA) cuando exista un equivalente del MINAM o CENEPRED.
-2.  **Inconsistencia Matemática:** El metrado reportado en la Memoria Descriptiva no coincide con la Planilla de Metrados del Excel.
-3.  **Falta de Trazabilidad:** Un precio unitario (ACU) se deduce o se inventa sin referencia al Cerebro Técnico o a cotizaciones comprobables en S10/CAPECO.
+2.  **Inconsistencia Matemática:** El metrado reportado en la [[Memoria_Descriptiva|Memoria Descriptiva]] no coincide con la Planilla de Metrados del Excel.
+3.  **Falta de Trazabilidad:** Un precio unitario (ACU) se deduce o se inventa sin referencia al [[MOC_Master_Cerebro_Tecnico|Cerebro Técnico]] o a cotizaciones comprobables en S10/CAPECO.
 4.  **Alucinaciones Técnicas:** Citar resoluciones ministeriales inventadas o derogadas (para esto se debe cruzar datos con el skill `vigilancia-normativa-peru`).
 
 ## 2. Flujo de Intervención
@@ -24,4 +24,4 @@ El Tribunal rechazará el entregable y obligará al agente generador a rehacerlo
     *   Si es válido: Firma la aprobación y pasa el entregable al Manager (Antigravity).
 
 ## 3. Protocolo de Memoria Acumulativa
-Si el Tribunal detecta un error recurrente, debe ordenar al skill `memoria-acumulativa-proyectos` que documente el error en la carpeta `Proyectos_Pasados` para prevenirlo en futuras interacciones.
+Si el Tribunal detecta un error recurrente, debe ordenar al skill `memoria-acumulativa-proyectos` que documente el error en la carpeta `[[Proyectos_Pasados|Proyectos_Pasados]]` para prevenirlo en futuras interacciones.

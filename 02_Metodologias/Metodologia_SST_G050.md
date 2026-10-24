@@ -7,7 +7,7 @@ fecha_actualizacion: 2026-08-12
 # 👷 Metodología [[Seguridad_y_Salud_SST|SST]]: Norma Técnica G.050 y D.S. 005-2012-TR
 
 > [!NOTE]
-> Esta nota técnica compendia el marco normativo peruano de **[[Seguridad_y_Salud_SST|Seguridad y Salud en el Trabajo (SST)]]** enfocado a obras de construcción civil e infraestructura vial, alineado a la **NTE G.050 (Seguridad durante la Construcción)** y la **Ley N° 29783**.
+> Esta nota técnica compendia el marco normativo peruano de **[[Seguridad_y_Salud_SST|Seguridad y Salud en el Trabajo (SST)]]** enfocado a obras de construcción civil e infraestructura vial, alineado a la **NTE G.050 (Seguridad durante la Construcción)** y la **[[Ley 29783|Ley N° 29783]]**.
 > Enlace principal: [[MOC_Ruta_HU_112|Volver al Panel de Control]]
 
 ---
@@ -25,7 +25,7 @@ La **NTE G.050** del Reglamento Nacional de Edificaciones (RNE) establece las co
 
 ## 2. Marco Legal Nacional (Ley 29783 y D.S. 005-2012-TR)
 
-La **Ley N° 29783 ([[Seguridad_y_Salud_SST|Ley de Seguridad y Salud en el Trabajo]])** y su reglamento, aprobado mediante el **D.S. N° 005-2012-TR**, regulan de manera transversal la seguridad de los trabajadores.
+La **Ley N° 29783 ([[Seguridad_y_Salud_SST|Ley de Seguridad y Salud en el Trabajo]])** y su reglamento, aprobado mediante el **[[D.S. 011-2019-TR|D.S. N° 005-2012-TR]]**, regulan de manera transversal la seguridad de los trabajadores.
 
 ### Principio de Prevención:
 El empleador garantiza en el centro de trabajo el establecimiento de medios y condiciones que protejan la vida, la salud y el bienestar de los trabajadores, y de aquellos que no teniendo vínculo laboral prestan servicios o se encuentran dentro del ámbito del centro de labores.

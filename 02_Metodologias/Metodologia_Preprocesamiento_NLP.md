@@ -8,7 +8,7 @@ tags:
 # 🧠 Metodología de Preprocesamiento de Expedientes Técnicos (Data Pipeline)
 
 ## 🎯 Objetivo
-Evitar que el agente procese PDFs sucios (Zero-shot sucio) al analizar expedientes masivos (FITSA, EIA, EVAR). Aplicar los principios del Módulo 3 y 4 del Máster IA: **Limpieza de Datos, Normalización y Fragmentación (Chunking)** antes de inyectar contexto al LLM.
+Evitar que el agente procese PDFs sucios (Zero-shot sucio) al analizar expedientes masivos (FITSA, EIA, EVAR). Aplicar los principios del [[MIA_A1_Mod3_Procesamiento Lenguaje Natural|Módulo 3 y 4 del Máster IA]]: **Limpieza de Datos, Normalización y Fragmentación (Chunking)** antes de inyectar contexto al LLM.
 
 ## 🛠️ Reglas del Data Pipeline (NLP Aplicado)
 
@@ -29,7 +29,7 @@ Las redes neuronales necesitan datos ordenados.
 - Aplicar expresiones regulares (Regex) para aislar números de partidas (ej. `01.02.03`) de su descripción textual, reduciendo la confusión del LLM al sumar montos.
 
 ### 4. Mejora de Contraste para Visión Artificial
-Cuando se analicen fotos de fallas geológicas o calicatas (usando `analizador-fotografico-tecnico`):
+Cuando se analicen fotos de fallas geológicas o calicatas (usando `[[MIA_A1_Mod2_Visión Artificial|analizador-fotografico-tecnico]]`):
 - Rechazar fotos subexpuestas. 
 - Priorizar imágenes donde las texturas del suelo (Geomorfología) sean distinguibles antes de enviarlas al modelo multimodal.
 

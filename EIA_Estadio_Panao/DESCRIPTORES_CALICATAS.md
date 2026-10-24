@@ -4,7 +4,7 @@ tipo: nota
 fecha_actualizacion: 2026-08-12
 ---
 
-# Descriptores de Calicatas — Estadio Municipal de Panao
+# Descriptores de Calicatas — [[MOC_Estadio_Ambo|Estadio Municipal de Panao]]
 
 ## Agrupación de las 7 calicatas en 5 descriptores geotécnicos
 

@@ -10,7 +10,7 @@ fecha_actualizacion: 2026-08-12
 ---
 
 ### 1. Contexto Hidrográfico y Delimitación de la Unidad Hidrográfica
-El área de influencia del proyecto **"Estadio Municipal de la Ciudad de Panao"** se emplaza en la vertiente oriental de la Cordillera de los Andes, perteneciente al sistema hidrográfico del Atlántico.
+El área de influencia del proyecto **"[[MOC_EIA_Estadio_Panao|Estadio Municipal de la Ciudad de Panao]]"** se emplaza en la vertiente oriental de la Cordillera de los Andes, perteneciente al sistema hidrográfico del Atlántico.
 
 #### A. Unidad Hidrográfica Principal (Cuenca del Río Huallaga)
 Nacionalmente, el proyecto se enmarca dentro de la **Cuenca del Río Huallaga (UH 498)**. La cuenca del Huallaga drena un área aproximada de $95,000\ km^2$ y es uno de los principales colectores fluviales de la vertiente del Amazonas en el sector nor-oriental de la sierra central del Perú. El río principal discurre en sentido sur-norte configurando un valle interandino profundo intensamente disectado.
@@ -36,7 +36,7 @@ El régimen pluvial en la zona de Panao es marcadamente estacional y típico de 
 2. **Época de Estiaje (Periodo Seco):** Comprende de **abril a septiembre**, registrándose precipitaciones mensuales mínimas (frecuentemente menores a $25\ mm/\text{mes}$) entre junio y agosto.
 
 #### B. Eventos Pluviales Extremos Recientes
-El historial hidrometeorológico documenta la ocurrencia periódica de eventos de precipitación extraordinaria que superan los percentiles normales de diseño. El **01 de abril de 2026**, lluvias de intensidad severa desencadenaron un caudal de avenida extraordinario y procesos de remoción en masa (huaico de magnitud registrado en el **Reporte Complementario N° 4920 del COEN-INDECI**), el cual afectó gravemente la infraestructura de transporte (Ruta HU-112), viviendas y terrenos agrícolas aledaños por desborde y escorrentía incontrolada.
+El historial hidrometeorológico documenta la ocurrencia periódica de eventos de precipitación extraordinaria que superan los percentiles normales de diseño. El **01 de abril de 2026**, lluvias de intensidad severa desencadenaron un caudal de avenida extraordinario y procesos de remoción en masa (huaico de magnitud registrado en el **Reporte Complementario N° 4920 del COEN-INDECI**), el cual afectó gravemente la infraestructura de transporte ([[MOC_Ruta_HU_112|Ruta HU-112]]), viviendas y terrenos agrícolas aledaños por desborde y escorrentía incontrolada.
 
 ---
 

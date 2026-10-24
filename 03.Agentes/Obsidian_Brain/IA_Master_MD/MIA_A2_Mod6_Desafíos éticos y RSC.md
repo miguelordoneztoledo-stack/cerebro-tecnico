@@ -59,7 +59,7 @@ source: MIA_A2_Mod6_Desafíos éticos y RSC.pdf
 
 ## **1. Ética en la Inteligencia Artificial** 
 
-_“Gracias a el desarrollo de nuevos algoritmos específicamente en el ámbito del [[MIA_A2_Mod4_Machine Learning y Deep Learning|Deep Learning]] las máquinas son capaces de aprender por si mismas, retroalimentando su conocimiento a partir de nuevos_ _<u>y antiguos datos.”</u>_ 
+_“Gracias a el desarrollo de nuevos algoritmos específicamente en el ámbito del [[MIA_A2_Mod4_[[MIA_A2_Mod4_Machine Learning y Deep Learning|Machine Learning y Deep Learning]]|Deep Learning]] las máquinas son capaces de aprender por si mismas, retroalimentando su conocimiento a partir de nuevos_ _<u>y antiguos datos.”</u>_ 
 
 ### **1.1. Inteligencia Artificial** 
 

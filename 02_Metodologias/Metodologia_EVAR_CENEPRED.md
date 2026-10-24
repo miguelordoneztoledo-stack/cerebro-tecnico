@@ -24,7 +24,7 @@ Donde:
 
 ---
 
-## 2. Proceso de Análisis Jerárquico (AHP) de Saaty
+## 2. [[AHP_Saaty_EVAR_EVAR-IIEE-IPARIA|Proceso de Análisis Jerárquico (AHP)]] de Saaty
 
 Para la ponderación de las variables de peligro y vulnerabilidad, se aplica el **Proceso de Análisis Jerárquico (AHP)** desarrollado por Thomas Saaty. Este método permite tomar decisiones multicriterio estructurando el problema en una jerarquía y realizando comparaciones pareadas.
 

@@ -37,7 +37,7 @@ fecha_actualizacion: 2026-08-12
 
 ## 📦 Partidas Ambientales Pendientes
 
-### Partida 26: LIMPIEZA FINAL, REVEGETACIÓN Y RESTAURACIÓN DE ÁREAS AUXILIARES
+### [[Partida_26_Revegetacion|Partida 26]]: LIMPIEZA FINAL, REVEGETACIÓN Y RESTAURACIÓN DE ÁREAS AUXILIARES
 
 **Alcance:**
 - Limpieza y retiro de escombros, materiales de desecho y residuos sólidos generados durante la construcción
@@ -61,7 +61,7 @@ fecha_actualizacion: 2026-08-12
 
 ---
 
-### Partida 27: DESMOVILIZACIÓN DE EQUIPOS, MAQUINARIA Y ENTREGA DE OBRA
+### [[Partida_27_Desmovilizacion|Partida 27]]: DESMOVILIZACIÓN DE EQUIPOS, MAQUINARIA Y ENTREGA DE OBRA
 
 **Alcance:**
 - Retiro ordenado de toda la maquinaria pesada (excavadoras, compactadores, grúas)
@@ -89,9 +89,9 @@ fecha_actualizacion: 2026-08-12
 
 | Archivo | Ubicación | Estado |
 |---------|-----------|--------|
-| MOC_Estadio_Ambo.md | ./MOC_Estadio_Ambo.md | ✅ Actualizado |
+| [[MOC_Estadio_Ambo|MOC_Estadio_Ambo.md]] | ./MOC_Estadio_Ambo.md | ✅ Actualizado |
 | RIESGO-ESTADIO-AMBO.pdf | (Pendiente localizar) | 📄 Disponible |
-| EVAR_PANAO_Medidas_Control.md | ../../EVAR_PANAO_Medidas_Control.md | 🔗 Referencia cruzada |
+| [[EVAR_PANAO_Medidas_Control|EVAR_PANAO_Medidas_Control.md]] | ../../EVAR_PANAO_Medidas_Control.md | 🔗 Referencia cruzada |
 
 ---
 

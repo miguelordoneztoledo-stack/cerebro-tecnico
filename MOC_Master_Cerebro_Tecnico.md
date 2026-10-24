@@ -52,13 +52,13 @@ Bienvenidos a la nota central de control de tu **Cerebro Digital Acumulativo**, 
 ---
 
 ## 🛠️ 5. Metodologías y Normatividad
-- [[Base_Datos_Costos_Historicos]] — Base de Datos Acumulativa de Costos y Rendimientos CAPECO/S10
-- [[Metodologia_EVAR_CENEPRED]] — Metodología de Evaluación de Riesgos CENEPRED
-- [[Metodologia_EVAP_CONESA]] — Metodología de Evaluación de Impacto Ambiental (Conesa/Leopold)
-- [[Metodologia_SST_G050]] — Metodología de Seguridad y Salud en el Trabajo (NTE G.050 / Ley 29783)
-- [[Gestion_de_Riesgos_EVAR]] — Gestión Integral de Riesgos ante Desastres
-- [[Gestion_Ambiental_y_PMA]] — Gestión Ambiental y Plan de Manejo Ambiental
-- [[Seguridad_y_Salud_SST]] — Planes de Seguridad y Salud en Construcción
+- [[Base_Datos_Costos_Historicos]] — [[Base_Datos_Costos_Historicos|Base de Datos Acumulativa de Costos y Rendimientos CAPECO/S10]]
+- [[Metodologia_EVAR_CENEPRED]] — [[Metodologia_EVAR_CENEPRED|Metodología de Evaluación de Riesgos CENEPRED]]
+- [[Metodologia_EVAP_CONESA]] — [[Metodologia_EVAP_CONESA|Metodología de Evaluación de Impacto Ambiental (Conesa/Leopold)]]
+- [[Metodologia_SST_G050]] — [[Metodologia_SST_G050|Metodología de Seguridad y Salud en el Trabajo (NTE G.050 / Ley 29783)]]
+- [[Gestion_de_Riesgos_EVAR]] — [[Gestion_de_Riesgos_EVAR|Gestión Integral de Riesgos ante Desastres]]
+- [[Gestion_Ambiental_y_PMA]] — [[Gestion_Ambiental_y_PMA|Gestión Ambiental y Plan de Manejo Ambiental]]
+- [[Seguridad_y_Salud_SST]] — [[Seguridad_y_Salud_SST|Planes de Seguridad y Salud en Construcción]]
 
 ---
 

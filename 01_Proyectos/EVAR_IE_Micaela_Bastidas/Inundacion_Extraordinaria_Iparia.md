@@ -38,7 +38,7 @@ graph TD
 
 ## 3. VALORACIÓN DEL NIVEL DE PELIGRO Y RIESGO EXTRAORDINARIO ([[Metodologia_EVAR_CENEPRED|CENEPRED]])
 
-Bajo la matriz jerárquica de Saaty aplicada en la Evaluación del Riesgo (EVAR):
+Bajo la matriz jerárquica de Saaty aplicada en la [[Gestion_de_Riesgos_EVAR|Evaluación del Riesgo (EVAR)]]:
 
 * **Estratificación del Peligro ($P$):** **MUY ALTO ($0.308 \le P \le 0.374$)**.
   * *Descriptor:* Altura de Inundación $h > 1.50\text{ m}$, Precipitación extremada $RR > 263.44\text{ mm/día}$, Formación geomorfológica de Terraza Baja Aluvial ($Tb-al$) y suelo orgánico ($Qh-fo$).
