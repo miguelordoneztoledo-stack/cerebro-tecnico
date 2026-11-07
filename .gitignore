@@ -24,3 +24,4 @@ __pycache__/
 ._*
 Thumbs.db
 desktop.ini
+.semantic_linker_state.json

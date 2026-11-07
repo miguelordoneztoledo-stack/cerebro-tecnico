@@ -56,4 +56,4 @@ Reutilizar previa verificacion de vigencia con el MCP `normativa-peru`.
 | D.S. N° 006-2024-MIDAGRI | 2 | `AGOSTO\ANALISIS_CARTA41_HITOS_CONTROL_2026-08-31.md` |
 | D.S. N° 019-2009-MINAM | 2 | `AGOSTO\Informes mensuales\Borradores_Agosto\BORRADOR_2026-08_INFORME_AMBIENTAL_CONTRACTUAL_VAL28.docx` |
 
-[[Memoria_Maestra]] | [[Criterios_Normativos]]
+[[Memoria_Maestra]] | Criterios_Normativos

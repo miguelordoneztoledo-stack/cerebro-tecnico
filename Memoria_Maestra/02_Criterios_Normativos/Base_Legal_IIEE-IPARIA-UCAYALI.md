@@ -49,4 +49,4 @@ Reutilizar previa verificacion de vigencia con el MCP `normativa-peru`.
 | Ley N° 30884 | 1 | `Gestion_bienes_publicos_ambientales_externalidades.docx` |
 | ISO 1996 | 1 | `Informe_Revision_Procedimiento_Campo_Monitoreo_Oncologico_Huanuco.docx` |
 
-[[Memoria_Maestra]] | [[Criterios_Normativos]]
+[[Memoria_Maestra]] | Criterios_Normativos
